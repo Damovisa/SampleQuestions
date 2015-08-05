@@ -1,4 +1,5 @@
 ﻿using System;
+using Microsoft.Owin.Hosting;
 
 namespace SampleQuestions
 {
@@ -6,8 +7,12 @@ namespace SampleQuestions
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Started. Press Enter to quit.");
-            Console.ReadLine();
+            using (WebApp.Start<Startup>("http://localhost:12345"))
+            {
+                Console.WriteLine("Started. Press Enter to quit.");
+                Console.ReadLine();
+            }
+
         }
     }
 }
