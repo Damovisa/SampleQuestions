@@ -6,7 +6,12 @@ namespace SampleQuestions
     {
         public ApiModule()
         {
-            Get[""] = _ => "Hello World";
+            Get[""] = _ => new MessageResponse { Text = "Hello World" };
         }
+    }
+
+    public class MessageResponse
+    {
+        public string Text { get; set; }
     }
 }
