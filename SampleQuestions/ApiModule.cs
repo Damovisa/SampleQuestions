@@ -1,4 +1,7 @@
-﻿using Nancy;
+﻿using System.Linq;
+using Nancy;
+using Nancy.Responses;
+using SampleQuestions.Data;
 
 namespace SampleQuestions
 {
@@ -6,12 +9,17 @@ namespace SampleQuestions
     {
         public ApiModule()
         {
-            Get[""] = _ => new MessageResponse { Text = "Hello World" };
+            var repo = new QuestionsRepository();
+
+            Get["/questions"] = _ => repo.GetRandomQuestions(10);
+            Get["/questions/{id}"] = _ =>
+            {
+                var id = _.id;
+                var question = repo.GetQuestion(id);
+                return question ?? Negotiate.WithStatusCode(HttpStatusCode.NotFound);
+            };
         }
+
     }
 
-    public class MessageResponse
-    {
-        public string Text { get; set; }
-    }
 }

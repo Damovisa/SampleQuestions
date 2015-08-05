@@ -1,0 +1,2482 @@
+[
+  {
+    "Id": 1,
+    "question": "477. (May-2005 Q10) What are the problems with the prone position for surgery?",
+    "Include": true
+  },
+  {
+    "Id": 2,
+    "question": "418. (Oct-2009 Q11) What are the key objectives of ethical review of a research project?",
+    "Include": true
+  },
+  {
+    "Id": 3,
+    "question": "239. (Apr97) A 75 yo man requiring TURP takes a diuretic and beta blocker for hypertension. Spinal anaesthesia with 0.5% bupivacaine (plain) results in a sensory level of T10 and a fall in blood pressure from 170/95 to 130/80. Outline the considerations in the selection of spinal as compared with general anaesthesia for this man.",
+    "Include": true
+  },
+  {
+    "Id": 4,
+    "question": "296. (May-2003 Q10) A 25 yo woman has undergone a dianostic laparoscopy. In the PACU she complains of nausea and vomits repeatedly. Discuss the factors that make this patient more prone to post op nausea and vomiting.",
+    "Include": true
+  },
+  {
+    "Id": 5,
+    "question": "297. (May-2003 Q11) Discuss your management options in the PACU",
+    "Include": true
+  },
+  {
+    "Id": 6,
+    "question": "157. (May-2012 Q8) A 35-year-old female is booked for thyroidectomy. Her blood results are as follows:\nThyroid stimulating hormone (TSH) 0.1 (N 0.3-3mIU/l)\nTotal Thyroxine (Total T4) 20 (N 4 – 11 μg/dl)2\nFree Thyroxine (Free T4) 4 (N 0.7 – 1.8 ng/dl)\nFree Tri-iodothyronine (Free T3) 120 (N 60 – 175 ng/dl)\nInterpret these thyroid function tests (10%)\nJustify when you would proceed to thyroidectomy in this patient (50%)\nWhat is the management of an intraoperative thyrotoxic crisis? (40%)",
+    "Include": true
+  },
+  {
+    "Id": 7,
+    "question": "5. (Finals Oct-2009 Q13) You see a 28-year-old woman at the pre-admission clinic who is 32 weeks pregnant. She weighs 150kg and has gestational diabetes. She is hoping to have a normal vaginal delivery at term. What are the issues you would discuss with her during the appointment? (50%) What would you recommend for her management when she goes in to labour? (50%)",
+    "Include": true
+  },
+  {
+    "Id": 8,
+    "question": "501. (May-2007 Q15) Outline the steps necessary to diagnose brain death in a 38 year old woman who is comatose following a subarachnoid haemorrhage.",
+    "Include": true
+  },
+  {
+    "Id": 9,
+    "question": "420. Finals Oct-2011 Q2 A new randomised controlled trial suggests therapy A is better than therapy B in the treatment of condition X. How would you evaluate this trial before changing your clinical practice?",
+    "Include": true
+  },
+  {
+    "Id": 10,
+    "question": "230. (Aug99) An 83 year old woman slips and sustains a left Colles' fracture after a birthday lunch, and is booked for manipulation and plaster of her fracture. Discuss the benefits and drawbacks of intravenous regional anaesthesia in this patient.",
+    "Include": true
+  },
+  {
+    "Id": 11,
+    "question": "231. (Aug99) Give reasons for your choice and dose of local anaesthetic agent for intravenous regional anaesthesia.",
+    "Include": true
+  },
+  {
+    "Id": 12,
+    "question": "232. (Aug99) What hazards does the use of a tourniquet present in this situation, and how might they be minimised.",
+    "Include": true
+  },
+  {
+    "Id": 13,
+    "question": "65. (May-2004 Q5) Discuss the methods you would use to reduce cerebral swelling during craniotomy for removal of tumour in an adult.",
+    "Include": true
+  },
+  {
+    "Id": 14,
+    "question": "306. Finals Oct-2010 Q4 A 68-year-old man in hospital awaiting definitive surgery for a supraglottic squamous cell carcinoma of the larynx has worsening stridor at rest.\n(a) How might his symptoms be improved in the preoperative period? (30%)\n(b) Describe your evaluation of his airway and how this will influence your intraoperative airway management plan. (70%)",
+    "Include": true
+  },
+  {
+    "Id": 15,
+    "question": "372. (Aug-2000 Q7) Discuss serum tryptase as an investigation in current medical practice.",
+    "Include": true
+  },
+  {
+    "Id": 16,
+    "question": "45. (May-2002 Q1) A 68 yo man presents for repair of a rapidly expanding AAA. He has been a heavy smoker (80 pack years) until 5 months previously when he had a myocardial infarction. He has been treated for hypertension for the last 13 years and is currently taking atenolol, nitroglycerine and diltiazem. What clinically significant information can be obtained if a pulmonary artery catheter is placed for his operation and how would it influence the anaesthetic management?",
+    "Include": true
+  },
+  {
+    "Id": 17,
+    "question": "46. (May-2002 Q2) Compare the use of a pulmonary artery catheter and transoesophageal echo in evaluating cardiac function intraoperatively in this patient.",
+    "Include": true
+  },
+  {
+    "Id": 18,
+    "question": "133. (Sep-2004 Q8) (Apr-2000 Q15) Describe the anatomy relevant to providing an ankle block for amputation (surgery on) of the great toe",
+    "Include": true
+  },
+  {
+    "Id": 19,
+    "question": "401. (Sep-2006 Q9) Nitrous oxide should not be used routinely as a component of general anaesthesia. Discuss.",
+    "Include": true
+  },
+  {
+    "Id": 20,
+    "question": "165. (Aug99) A healthy 25 you, 80kg man had general anaesthesia for the elective removal of 4 molar teeth. The anaesthetist uses a laryngeal mask airway (LMA).Justify the use of a LMA for this procedure.",
+    "Include": true
+  },
+  {
+    "Id": 21,
+    "question": "166. (Aug99) Halfway through surgery, the capnograph trace becomes flat. Describe your management.",
+    "Include": true
+  },
+  {
+    "Id": 22,
+    "question": "400. Finals May-2011 Q11 (a) Describe the clinical pharmacology of codeine including an outline of its therapeutic use. (70%) (b) Describe the influence of pharmacogenetics on the variability of patient response to codeine. (30%)",
+    "Include": true
+  },
+  {
+    "Id": 23,
+    "question": "333. Finals May-2010 Q14 A 58 year old man presents for tonsillectomy for a tonsillar tumour. He has a 2 year history of intermittent palpitations. His electrocardiogram at diagnosis shows the following a. What is the diagnosis? Describe the electrocardiographic changes that support your diagnosis. (30%) Following the administration of neostigmine and atropine for reversal of neuromuscular blockade, you see the following rhythm on your monitor. b. What is this rhythm? How would you manage this situation? (70%)",
+    "Include": true
+  },
+  {
+    "Id": 24,
+    "question": "494. (Oct-2008 Q6) You are covering ICU in your local district hospital when a 14-year-old boy presents to your ED obtunded and hypotensive with a rash suggestive of meningococcal sepsis. Describe your resuscitation",
+    "Include": true
+  },
+  {
+    "Id": 25,
+    "question": "476. (Sep-2005 Q6) How does anaesthesia alter temperature homeostasis?",
+    "Include": true
+  },
+  {
+    "Id": 26,
+    "question": "419. Finals Oct-2010 Q6 How would you critically appraise a paper published in a journal?",
+    "Include": true
+  },
+  {
+    "Id": 27,
+    "question": "424. (Apr-2009 Q15) How is appropriate sample size for a clinical trial determined? (50%) What are the ethical implications of using an inappropriate sample size in a clinical trial? (50%)",
+    "Include": true
+  },
+  {
+    "Id": 28,
+    "question": "38. (Sep -2007 Q9) \"It's no longer justifiable to use aprotinin during cardiac surgical procedures\". Discuss.",
+    "Include": true
+  },
+  {
+    "Id": 29,
+    "question": "86. (May-2008 Q1) Outline how oxygen is stored at the hospital and delivered to operating theatres up to and including the wall outlet. In your answer include features that ensure the safety of the system.",
+    "Include": true
+  },
+  {
+    "Id": 30,
+    "question": "214. (May-2006 Q10) Describe the anatomy of the orbit relevant to a peribulbar eye block.",
+    "Include": true
+  },
+  {
+    "Id": 31,
+    "question": "206. Finals May-2013 Q14 You perform multiple intercostal blocks using 300mg ropivavcaine for flail chest a. What features would make you suspect systemic local anaesthetic toxicity? (50%) b. How would you manage the situation? (50%)",
+    "Include": true
+  },
+  {
+    "Id": 32,
+    "question": "17. (May-2003 Q7) A primiparous patient in active labour at 3 cm dilatation requests epidural analgesia. Examination reveals she has a temperature of 39.5 degrees.What impact does this fever have on your decision to provide epidural analgesia?",
+    "Include": true
+  },
+  {
+    "Id": 33,
+    "question": "402. (Sep-2006 Q12) Discuss the role of ketamine in current anaesthesia practice.",
+    "Include": true
+  },
+  {
+    "Id": 34,
+    "question": "176. Finals Oct-2011 Q3 What are the benefits and limitations of red blood cell salvage? (50%) How would you justify its introduction into your institution? (50%)",
+    "Include": true
+  },
+  {
+    "Id": 35,
+    "question": "371. (Sep-2003 Q1) Describe the precautions that should be taken to prevent a patient with known latex allergy from having a reaction to latex in the peri-operative period.",
+    "Include": true
+  },
+  {
+    "Id": 36,
+    "question": "478. (Sep-2004 Q1) Discuss the advantages and disadvantages of the methods used to avoid hypothermia in the operating theatre.",
+    "Include": true
+  },
+  {
+    "Id": 37,
+    "question": "223. (May-2002 Q7) A 75 yo heavy smoker presents for a total knee replacement. He has a mechanical mitral valve prosthesis and is warfarinised. Discuss your strategy for perioperative anticoagulation.",
+    "Include": true
+  },
+  {
+    "Id": 38,
+    "question": "224. (May-2002 Q8) What is the place of a spinal anaesthetic in this patient?",
+    "Include": true
+  },
+  {
+    "Id": 39,
+    "question": "225. (May-2002 Q9) Discuss your plan for postoperative analgesia given that the surgeon plans for the patient to use a continuous passive motion device.",
+    "Include": true
+  },
+  {
+    "Id": 40,
+    "question": "388. (Oct-2009 Q5) A woman who is 10 weeks pregnant presents to the Emergency Department with a closed tibial shaft fracture.\na) Classify the drugs used in pain management according to their safety to use at this stage of pregnancy. (40%)\nb) What are the options available for perioperative pain management for this patient? (30%)",
+    "Include": true
+  },
+  {
+    "Id": 41,
+    "question": "496. (Sep-2007 Q6) Define circulatory shock Categorise the causes of circulatory shock and give an example in each category.",
+    "Include": true
+  },
+  {
+    "Id": 42,
+    "question": "322. (Jul97) What are the arguments for and against the use of a laryngeal mask airway for general anaesthesia for laparoscopic tubal ligation?",
+    "Include": true
+  },
+  {
+    "Id": 43,
+    "question": "66. (Aug-2000 Q10) A 75 yo man is scheduled for a 2 level posterior spinal fusion under general anaesthesia in the prone position. He suffers from stable angina, for which he takes sublingual glyceryl trinitrate. He also takes oral morphine for his back pain. What hazards will his position for surgery present and how may they be minimised?",
+    "Include": true
+  },
+  {
+    "Id": 44,
+    "question": "441. Finals Oct-2011 Q15 Explain your approach to thromboprophylaxis in the patient undergoing total knee replacement.",
+    "Include": true
+  },
+  {
+    "Id": 45,
+    "question": "328. Finals May-2013 Q11 A 25-year-old male scheduled for elective surgery is found to have a systolic murmur on the day of surgery.\na) What are the clinical features and ECG findings in this patient that would prompt you to postpone the case to allow further investigation? (70%)\nb) What are the likely causes of this murmur? (30%)",
+    "Include": true
+  },
+  {
+    "Id": 46,
+    "question": "358. (Apr96) A man is to have a left shoulder arthroplasty under general anaesthesia. He has a permanent pacemaker located subcutaneously under the left clavicle. How would you assess this aspect of his condition pre-operatively?",
+    "Include": true
+  },
+  {
+    "Id": 47,
+    "question": "359. (Apr96) What precautions would you take to prevent malfunction of the pacemaker?",
+    "Include": true
+  },
+  {
+    "Id": 48,
+    "question": "154. (Aug96) While you are assessing her, she begins to convulse. Describe your management.",
+    "Include": true
+  },
+  {
+    "Id": 49,
+    "question": "3. Finals May-2012 Q5 A healthy 28-year-old primigravida is scheduled for elective lower segment caesarean section for breech presentation at 39 weeks gestation.\nYou have performed a spinal anaesthetic using 0.5% bupivacaine 2.2 ml and fentanyl 15 μg (total volume 2.5 ml).\nDescribe the issues in assessing adequacy of the block for the planned surgery (50%)\nDescribe the options for managing an inadequate block recognised prior to commencement of surgery (50%)",
+    "Include": true
+  },
+  {
+    "Id": 50,
+    "question": "51. (Jul98) A patient was scheduled for elective repair of an abdominal aortic aneurysm. During preparation for anaesthesia, the 8.5 french gauge introducer sheath intended for the internal jugular vein was inserted into the carotid artery. How could the risk of this incident occurring be minimised?",
+    "Include": true
+  },
+  {
+    "Id": 51,
+    "question": "338. Finals Oct-2009 Q2 List the advantages and disadvantages of tight glycaemic control perioperatively in a diabetic patient on insulin. (30%)\nHow would you manage the glycaemic control for such a patient having a minor procedure under general anaesthesia? (70%)",
+    "Include": true
+  },
+  {
+    "Id": 52,
+    "question": "249. (Oct-2012 Q8) OUtline the key steps in gaining informed consent for anaesthesia in a competent ASA 1 adult undergoing minor elective surgery.",
+    "Include": true
+  },
+  {
+    "Id": 53,
+    "question": "428. (May-2005 Q12) Discuss the value of case reports to anaesthetists in the era of evidence based medicine.",
+    "Include": true
+  },
+  {
+    "Id": 54,
+    "question": "34. Finals Oct-2010 Q12 What are the advantages and disadvantages of general versus local anaesthesia for carotid endarterectomy?",
+    "Include": true
+  },
+  {
+    "Id": 55,
+    "question": "245. Finals May-2010 Q12 a. Describe the aims of a quality assurance program. (40%) b. Outline the steps you would take to set up a quality assurance program for your anaesthesia department. (60%)",
+    "Include": true
+  },
+  {
+    "Id": 56,
+    "question": "361. (May-2005 Q11) Discuss the management options for an epidural abscess.",
+    "Include": true
+  },
+  {
+    "Id": 57,
+    "question": "473. (Oct-2012 Q9) A developmentally delayed, uncooperative adult requires a magnet resonsance imaging scan for investigation of deteriorating control of seizures. What issues do you foresee in terms of providing general anaesthesia in the MRI suite for this patient?",
+    "Include": true
+  },
+  {
+    "Id": 58,
+    "question": "209. (Sep-2007 Q3) Outline guidelines you think should be in place for reducing both the incidence and the morbidity of epidural space infections as a complication of epidural analgesia.",
+    "Include": true
+  },
+  {
+    "Id": 59,
+    "question": "283. (May-2008 Q2) Why is the radial artery a common site for arterial cannulation? What complications may occur from radial artery cannulation and how may they be minimised?",
+    "Include": true
+  },
+  {
+    "Id": 60,
+    "question": "489. (Aug96) Outline the criteria you would use in determining a patient's suitability for discharge from a day surgery unit.",
+    "Include": true
+  },
+  {
+    "Id": 61,
+    "question": "205. Finals Oct-2011 Q12 a. Which peripheral nerve/s need to be blocked for complete analgesia following repair of a tibial plateau fracture? (30%)\nb. Describe your technique for blockade of these nerve/s (EXCLUDING central neuraxial blockade). (70%)",
+    "Include": true
+  },
+  {
+    "Id": 62,
+    "question": "374. (Sep-2002 Q10) As a result of a suicide attempt, a 22 yo male sustained a compound fracture of his lower tibia with extensive skin loss. Other injuries include a t12 and l1 crush fracture with no neurological sequelae. The patient suffers from schizophrenia. He is to undergo a free flap from the lower abdomen to the leg wound. What problems relating to his schizophrenia may impact on anaesthesia?",
+    "Include": true
+  },
+  {
+    "Id": 63,
+    "question": "138. (Apr96) Describe the anatomy relevant to an interscalene block for post-operative analgesia.",
+    "Include": true
+  },
+  {
+    "Id": 64,
+    "question": "311. (May-2006 Q6) Describe your immediate assessment and management of the airway in a patient with smoke inhalation injury.",
+    "Include": true
+  },
+  {
+    "Id": 65,
+    "question": "450. (Sep-2007 Q15) Draw flow volume loops associated with a) Fixed upper airway obstruction; b) Variable extrathoracic airway obstruction and c) Variable intrathoracic airway obstruction. Explain briefly the physiological reasons for the shape of these loops.",
+    "Include": true
+  },
+  {
+    "Id": 66,
+    "question": "25. (Aug99) A 31 yo primigravida at 36 weeks gestation presents with a blood pressure of 170/110 mmHg, proteinuria, persistent headache and hyperreflexia. She requires delivery by caesarian section within 3 hours. How would you manage her blood pressure in the time before surgery?",
+    "Include": true
+  },
+  {
+    "Id": 67,
+    "question": "26. (Aug99) Justify your choice of anaesthesia for caesarian section.",
+    "Include": true
+  },
+  {
+    "Id": 68,
+    "question": "27. (Aug99) If she had an uneventful general anaesthetic, but started convulsing in the recovery ward two hours post-operatively, how would you manage this?",
+    "Include": true
+  },
+  {
+    "Id": 69,
+    "question": "287. (May-2006 Q1) List the predisposing factors for aspiration of gastric contents in a patient undergoing general anaesthesia. Discuss the measures you would take to prevent this complication.",
+    "Include": true
+  },
+  {
+    "Id": 70,
+    "question": "150. (Apr99) A 52 yo man, height 1.75m weighing 130kg presents for laparoscopic cholecystectomy under GA. History and examination reveal no other abnormality.How does this patients obesity influence your anaesthetic management up to the time of the first incision?",
+    "Include": true
+  },
+  {
+    "Id": 71,
+    "question": "59. (Apr-2009 Q11) A 40 yo otherwise healthy male presents following a sub-arachnoid haemorrhage. He is scheduled for clipping of a middle cerebral artery aneurysm. Outline the major issues in providing anaesthesia for this patient and describe how you would address them.",
+    "Include": true
+  },
+  {
+    "Id": 72,
+    "question": "491. Finals May-2012 Q10 An adult patient from the intensive care unit with severe adult respiratory distress syndrome (ARDS) requires a laparotomy for an acute abdomen. What are the features of ARDS? (30%) Explain your perioperative ventilation strategy (70%)",
+    "Include": true
+  },
+  {
+    "Id": 73,
+    "question": "325. Finals May-2014 Q4 A patient with chronic atrial fibrillation on warfarin is scheduled for elective surgery. Outline how you decide if bridging therapy is needed? (70%) Describe how you would bridge anticoagulation if necessary. (30%)",
+    "Include": true
+  },
+  {
+    "Id": 74,
+    "question": "280.\t(Apr-2009 Q3) A previously well 80kg 19-year-old male is anaesthetised for ORIF of # tib and fib. He has a RSI including Suxamethonium and is intubated and ventilated via a circle system at 12 breaths per minute and a TV of 700mL with a FiO2 of 0.5. He has had 500mcg of fentanyl and anaesthesia is maintained with 1.5 MAC Sevoflurane. He develops an increasing sinus tachycardia to 160/min with frequent ventricular ectopic beats and his ET CO2 rises to 60mmHg despite increasing his ventilation. There is no rebreathing evident of capnography. ABGs now\npO2 105mmHg\npCO2 65mmHg\npH 7.12\nHCO3 20.7mmol/L\nBE -10\nOutline the steps you would follow to manage this situation.",
+    "Include": true
+  },
+  {
+    "Id": 75,
+    "question": "208. (Oct-2008 Q2) Describe the innvervation of the lower abdominal wall from the umbilicus to the pubis symphesis. Describe a technique of peripheral nerve block (not wound infiltration) to provide post-operative analgesia for a low transverse abdominal incision.",
+    "Include": true
+  },
+  {
+    "Id": 76,
+    "question": "310. (Sep-2006 Q1) Discuss the risks and benefits associated with intermittent positive pressure ventilation through proseal ® laryngeal mask airway for a patient undergoing laparoscopic cholecystectomy.",
+    "Include": true
+  },
+  {
+    "Id": 77,
+    "question": "488. (Sep-2002 Q6) (Jul98) What criteria would need to be met before he can be discharged home from the day procedure unit?",
+    "Include": true
+  },
+  {
+    "Id": 78,
+    "question": "110. (Apr97) What are the hazards of using soda lime for carbon dioxide absorption?",
+    "Include": true
+  },
+  {
+    "Id": 79,
+    "question": "414. (Apr-2000 Q12) Describe the pharmacokinetics and dosing schedule of paracetamol for post op analagesia.",
+    "Include": true
+  },
+  {
+    "Id": 80,
+    "question": "106. (Apr98) Describe the use of a nerve stimulator to monitor neuromuscular blockade during general anaesthesia for intracranial surgery.",
+    "Include": true
+  },
+  {
+    "Id": 81,
+    "question": "349. (May-2004 Q1) A 50yo patient with a past history of well controlled ischaemic heart disease is anaesthetised for an emergency laparotomy. Thirty minutes into the surgery, you notice new ST segment depression on the ECG. Describe your management.",
+    "Include": true
+  },
+  {
+    "Id": 82,
+    "question": "75. Finals Oct-2011 Q1 Compare and contrast oxygen delivery by nasal prongs, simple facemask and Venturi mask.",
+    "Include": true
+  },
+  {
+    "Id": 83,
+    "question": "324. Finals May-2014 Q2 An otherwise well 35-year-old woman is scheduled for ablation of an accessory atrioventricular pathway in the Cardiac Electrophysiology laboratory. What are the implications for anaesthesia and how would you manage them?",
+    "Include": true
+  },
+  {
+    "Id": 84,
+    "question": "21. (Sep-2001 Q8) She reaches full dilatation and delivers before any block is performed. Following delivery she has a retained placenta. Justify your choice of anaesthetic technique for manual removal of placenta.",
+    "Include": true
+  },
+  {
+    "Id": 85,
+    "question": "290. (Sep-2005 Q8) A 35 year old female is found to have a small pneumothorax following removal of a breast lump under local anaesthesia in a day surgery facility. How would you manage this?",
+    "Include": true
+  },
+  {
+    "Id": 86,
+    "question": "337. Finals Oct-2009 Q1 There is a 70-year-old female on your emergency list for an urgent laparotomy. She was involved in a motor vehicle accident this morning and sustained multiple trauma. Her medications include clopidogrel to cover the insertion of bare metal stents into her coronary arteries 2 months ago. Describe the mechanism and duration of action of clopidogrel. (30%) What are the major considerations for the perioperative period in view of the patient’s stent? (70%)",
+    "Include": true
+  },
+  {
+    "Id": 87,
+    "question": "203. (May-2004 Q7) Discuss the advantages and disadvantages of sub-tenon's eye block compared with other eye block techniques.",
+    "Include": true
+  },
+  {
+    "Id": 88,
+    "question": "446. Finals Oct-2013 Q15 A 25-year-old female with longstanding C5-6 quadriplegia requires ureteric stent insertion. Outline the implications for anaesthesia.",
+    "Include": true
+  },
+  {
+    "Id": 89,
+    "question": "242. Finals Oct-2010 Q14 You are on the interview panel appointing new Assistants for the Anaesthetist. What are the educational requirements and the practical responsibilities expected of the applicants?",
+    "Include": true
+  },
+  {
+    "Id": 90,
+    "question": "126. (Sep-2004 Q8) Describe the anatomy relevant to providing an ankle block for surgery on the big toe.",
+    "Include": true
+  },
+  {
+    "Id": 91,
+    "question": "455. (May-2005 Q13) How would you assess a patient's thyroid function preoperatively at the bedside?",
+    "Include": true
+  },
+  {
+    "Id": 92,
+    "question": "152. (Apr99) Open cholecystectomy becomes necessary. The surgeon requests that you place an epidural catheter for postoperative analgesia. Outline the issues which should be considered in responding to this request.",
+    "Include": true
+  },
+  {
+    "Id": 93,
+    "question": "331. Finals Oct-2011 Q14 A 70-year-old man has undergone radical prostatectomy under general anaesthesia. On emergence he has crushing central chest pain, is restless, and has cold, clammy skin. His blood pressure is 90/50 mm Hg, pulse rate 110/minute and SpO2 is 95% on oxygen via a Hudson mask. A twelve-lead ECG shows widespread ST segment elevation across the anterior chest leads. a. Describe your immediate management. (50%) b. What are the treatment priorities for this patient? (50%)",
+    "Include": true
+  },
+  {
+    "Id": 94,
+    "question": "115. (Aug96) How should a laryngeal mask airway be processed to avoid cross infection between patients.",
+    "Include": true
+  },
+  {
+    "Id": 95,
+    "question": "274. Finals Oct 2013 Q12 Three days after a patient has undergone hemiarthroplasty under general anaesthesia, his relatives ask to see you because of concerns that the patient does not recognise family members. This was not present preoperatively. What features would distinguish between delirium and dysfunction in this setting? (50%) What you would advise the family to be the expected outcome? (50%)",
+    "Include": true
+  },
+  {
+    "Id": 96,
+    "question": "175. Finals May-2013 Q1 How is the need for manual in-line stabilisation of the neck determined? (50%) What are the implications of inline stabilisation for endotracheal intubation of the airway (50%).",
+    "Include": true
+  },
+  {
+    "Id": 97,
+    "question": "453. (May-2006 Q5) A fifty year old man taking corticosteroid and pyridostigmine for myasthenia gravis is to have an elective right hemicolectomy under general anaesthesia. Discuss your management of his myasthenia pre and post operatively.",
+    "Include": true
+  },
+  {
+    "Id": 98,
+    "question": "153. (Aug96) An otherwise healthy 25 year old woman undergoes hysteroscopic endometrial ablation. After an uneventful general anaesthetic she is slow to wake in the recovery ward and becomes restless and confused. How would you diagnose the cause of this delayed recovery?",
+    "Include": true
+  },
+  {
+    "Id": 99,
+    "question": "192. Finals Oct-2013 Q6 A patient is undergoing femoro-popliteal artery bypass grafting for intermittent claudication under spinal anaesthesia with no sedation. Discuss this patient’s intraoperative arterial blood gas result. (see full gas on examiners report)",
+    "Include": true
+  },
+  {
+    "Id": 100,
+    "question": "80. Finals May-2011 Q13 You are involved in the planning of a new Day Surgery Unit. (a) What systems would you put in place to reduce the likelihood of a power failure? (50%) (b) Outline a protocol for dealing with power failures. (50%)",
+    "Include": true
+  },
+  {
+    "Id": 101,
+    "question": "411. (May-2002 Q13) Outline the issues to be considered when a patient wishes to continue self-prescribed herbal preparations in the peri-operative period.",
+    "Include": true
+  },
+  {
+    "Id": 102,
+    "question": "447. (May-2012 Q1) In regard to serotonin syndrome: a. What are the risk factors? (20%) b. what are the clinical manifestations? (40%) c. What is the treatment for an acute epidsode of serotonin syndrome? (40%)",
+    "Include": true
+  },
+  {
+    "Id": 103,
+    "question": "379. (Apr99) Describe the physiological effects of electroconvulsive therapy relevant to his anaesthetic management. Omit any considerations concerning phenelzine.",
+    "Include": true
+  },
+  {
+    "Id": 104,
+    "question": "37. (Oct-2012 Q3) 1. What are the prerequisites for separation from standard cardiopulmonary bypass after uneventful coronary artery bypass surgery? (50%). 2. What are the likely causes of hypotension in the immediate post-separation period? (50%)",
+    "Include": true
+  },
+  {
+    "Id": 105,
+    "question": "99. (May-2001 Q4) Discuss the advantages and disadvantages of directed blood donation (i.e. from a known donor to a specific recipient).",
+    "Include": true
+  },
+  {
+    "Id": 106,
+    "question": "100. (May-2001 Q5) Discuss the advantages and disadvantages of acute normovolaemic haemodilution.",
+    "Include": true
+  },
+  {
+    "Id": 107,
+    "question": "101. (May-2001 Q6) Discuss the advantages and disadvantages of intra-operative blood salvage.",
+    "Include": true
+  },
+  {
+    "Id": 108,
+    "question": "253. (May-2007 Q11) Why is consent for a medical procedure necessary? What makes consent for a medical procedure valid?",
+    "Include": true
+  },
+  {
+    "Id": 109,
+    "question": "220. (Sep-2002 Q7) A 60 yo woman presents for elective right bunion surgery. She is hypertensive, controlled on medication, and would like the procedure to be performed under spinal anaesthesia. The surgeon requests this procedure be done under tourniquet control. How would you apply the tourniquet, what pressures would you choose, and what precautions would you take?",
+    "Include": true
+  },
+  {
+    "Id": 110,
+    "question": "98. (May-2003 Q15) Describe the features of an ideal disconnection alarm.",
+    "Include": true
+  },
+  {
+    "Id": 111,
+    "question": "57. Finals May-2012 Q7 List the methods of assessing intracranial pressure (ICP) (30%) Evaluate the role of ICP monitoring in the setting of traumatic brain injury (70%)",
+    "Include": true
+  },
+  {
+    "Id": 112,
+    "question": "356. (Apr98) How would you proceed with investigation of his hypertension if no cause was apparent from the assessment described above?",
+    "Include": true
+  },
+  {
+    "Id": 113,
+    "question": "435. Finals Oct-2010 Q15 Long question on Lung Function Tests (LFTs/PFTs) – see full question in examiner’s report",
+    "Include": true
+  },
+  {
+    "Id": 114,
+    "question": "180. (Sep-2007 Q3) A 40-year-old woman presents having been trampled on by a horse. She has a compound fracture of her arm requiring surgery and bruising over the centre of the chest with a fractured sternum. List the injuries to the heart that may be caused by this blunt trauma. If she had no signs or symptoms of cardiac injury list and justify any screening investigations for cardiac injury you would perform prior to anaesthesia.",
+    "Include": true
+  },
+  {
+    "Id": 115,
+    "question": "81. (Oct-2012 Q15) 1. Classify the possible causes for patient awareness under general anaesthesia (70%). 2. Evaluate the evidence for the use of Bispectral Index monitoring in reducing the risk of awareness (30%).",
+    "Include": true
+  },
+  {
+    "Id": 116,
+    "question": "438. Finals May-2011 Q15 (a) How would you identify a patient with autonomic neuropathy associated with diabetes? (50%) (b) What are the anaesthetic implications from a cardiovascular perspective? (50%)",
+    "Include": true
+  },
+  {
+    "Id": 117,
+    "question": "380. (Apr99) Discuss your choice of induction agent for this procedure.",
+    "Include": true
+  },
+  {
+    "Id": 118,
+    "question": "277. Finals Oct 2013 Q4 Outline methods available to minimise intraoperative drug errors",
+    "Include": true
+  },
+  {
+    "Id": 119,
+    "question": "28. (Jul98) A 34 yo woman requires repeat lower section caesarean section. Last time she had a Caesarean section her post operative course was complicated by dural puncture headache (following dural puncture with a 16G needle), as well as a deep venous thrombosis. She won't have general anaesthesia. How would you minimise the problem of post dural puncture headache on this occasion.",
+    "Include": true
+  },
+  {
+    "Id": 120,
+    "question": "181. (Sep-2006 Q14)Critically evaluate the role of recombinant factor VIIa in blood loss requiring massive transfusion in the trauma patient.",
+    "Include": true
+  },
+  {
+    "Id": 121,
+    "question": "343. (Sep-2005 Q16) Critically evaluate the use of Beta blockers in the perioperative period to prevent myocardial infarction.",
+    "Include": true
+  },
+  {
+    "Id": 122,
+    "question": "454. (Sep-2005 Q3) What are the symptoms, signs and anaesthetic implications of an autonomic neuropathy associated with diabetes mellitus?",
+    "Include": true
+  },
+  {
+    "Id": 123,
+    "question": "159. (Oct-2012 Q13) Discuss the key areas of concern in your preoperative assessment of a patient for excision of a large tonsillar mass.",
+    "Include": true
+  },
+  {
+    "Id": 124,
+    "question": "320. (Apr98) What are the adverse effects of the pharmacological agents which could be used for this purpose (to minimise the risks of aspiration of gastric contents)? Exclude any considerations of anaesthetic agents or muscle relaxants.",
+    "Include": true
+  },
+  {
+    "Id": 125,
+    "question": "273. Finals May-2012 Q13 List the risk factors for perioperative stroke (50%) Describe how you would minimise the risk in a high-risk patient having major orthopaedic surgery (50%)",
+    "Include": true
+  },
+  {
+    "Id": 126,
+    "question": "134. (Apr99) Describe the anatomy of the brachial plexus relevant to risks associated with the supraclavicular block.",
+    "Include": true
+  },
+  {
+    "Id": 127,
+    "question": "215. (Sep-2004 Q4) Outline the diagnostic criteria for an epidural abscess",
+    "Include": true
+  },
+  {
+    "Id": 128,
+    "question": "201. Finals May-2010 Q8 a. Describe the anatomy of the eye relevant to a sub-Tenon’s eye block. (40%) b. Discuss the potential advantages and disadvantages of this technique for providing regional anaesthesia for eye surgery. (60%)",
+    "Include": true
+  },
+  {
+    "Id": 129,
+    "question": "162. (Sep-2004 Q10) Justify the use of a laryngeal mask airway in a 25 yo, 80kg man having general anaesthesia for removal of 4 molar teeth.",
+    "Include": true
+  },
+  {
+    "Id": 130,
+    "question": "204. Finals May-2011 Q5 (a) How would you clinically assess a patient complaining of leg numbness the day after a spinal anaesthetic for an emergency caesarean section? (70%) (b) How would you manage the situation? (30%)",
+    "Include": true
+  },
+  {
+    "Id": 131,
+    "question": "187. (Jul97) A 65 yo active man with a 40 yr pack history of smoking presents with 6 broken ribs and a small flail segment, soon after a fall from a ladder. He has no other significant injury. How would you manage his respiratory care in the first four days?",
+    "Include": true
+  },
+  {
+    "Id": 132,
+    "question": "108. (Jul97) Describe the principles of measurement by which oxygen concentration in inspired gas cen be measured, where mass spectrometry is not available.",
+    "Include": true
+  },
+  {
+    "Id": 133,
+    "question": "44. (Sep-2003 Q14) All patients who present for coronary bypass surgery should be classified as ASA status 4 or 5 - discuss this statement.",
+    "Include": true
+  },
+  {
+    "Id": 134,
+    "question": "384. Finals May-2013 Q8 a. In a patient who complains of post operative pain, which features of the history and examination suggest a diagnosis of acute neuropathic pain? (50%)\nb. How would the diagnosis affect your postoperative pain management plan? (50%)",
+    "Include": true
+  },
+  {
+    "Id": 135,
+    "question": "430. (Apr97) A clinical trial is planned to evaluate a new analgesic. Outline the methods which could be used to reduce bias in this trial.",
+    "Include": true
+  },
+  {
+    "Id": 136,
+    "question": "107. (Jul97) Describe the safety features of a hospital oxygen supply system, from the vacuum insulated evaporator oxygen storage to an operating room outlet.",
+    "Include": true
+  },
+  {
+    "Id": 137,
+    "question": "72. (Apr96) Evaluate the use of nitrous oxide as a component of your general anaesthetic for this man.",
+    "Include": true
+  },
+  {
+    "Id": 138,
+    "question": "462. (Apr97) A 50 yo man taking a corticosteroid and pyridostigmine for myasthenia gravis is to have an elective right hemicolectomy under general anaesthesia. How would you manage his myasthenia pre and post-operatively?",
+    "Include": true
+  },
+  {
+    "Id": 139,
+    "question": "389. (Apr-2009 Q14) A previously healthy 28-year-old male has persistent pain 12 weeks after compound fracture to his lower leg and is on slow-release oxycodone 80mg twice daily and immediate release oxycodone 20mg 4 hourly. Discuss the advantages and disadvantages of switching his opioid to methadone in this situation and how this may be achieved safely.",
+    "Include": true
+  },
+  {
+    "Id": 140,
+    "question": "94. (Sep-2004 Q6) What are the considerations in setting the fresh gas flow rate when anaesthetising an adult with sevoflurane and nitrous oxide using a circle absorber system?",
+    "Include": true
+  },
+  {
+    "Id": 141,
+    "question": "173. (Apr98) How would sleep apnoea influence your post operative management including provision of analgesia?",
+    "Include": true
+  },
+  {
+    "Id": 142,
+    "question": "448. (Apr-2009 Q5) A 70 year old man with a 10 year history of Parkinson's disease presents for a total knee joint replacement. He is on levodopa / carbidopa five times a day. Outline the main issues to consider in relation to his Parkinson's disease in planning the perioperative management of this patient.",
+    "Include": true
+  },
+  {
+    "Id": 143,
+    "question": "263. (Sep-2001 Q5) If opiate abuse were found to be the problem, what would the important elements of rehabilitation for this anaesthetist?",
+    "Include": true
+  },
+  {
+    "Id": 144,
+    "question": "18. (May-2003 Q8) Which complications would you discuss with this patient when obtaining consent for an epidural? Include your estimates of the incidence of these complications.",
+    "Include": true
+  },
+  {
+    "Id": 145,
+    "question": "301. (May-2001 Q13) How would you try to decrease the likelihood of post-operative nausea and vomiting in a 40 yo woman who gives a history of severe distress from this, and now requires a laparoscopic cholecystectomy.",
+    "Include": true
+  },
+  {
+    "Id": 146,
+    "question": "62. (Sep-2006 Q8) Describe the principles of cerebral protection in a patient with an isolated closed head injury.",
+    "Include": true
+  },
+  {
+    "Id": 147,
+    "question": "330. (Oct-2012 Q4) 1. what is the natural history of aortic stenosis? (30%). 2. What are the key echocardiographic features in haemodynamically significant aortic stenosis? (70%)",
+    "Include": true
+  },
+  {
+    "Id": 148,
+    "question": "30. (Jul98) Describe and justify your prophylaxis against deep venous thrombosis for her. (begin your answer by stating in just a word or two the regional anaesthesia technique you have chosen).",
+    "Include": true
+  },
+  {
+    "Id": 149,
+    "question": "222. (Sep-2002 Q9) Describe in detail how you would perform and ankle block for this patient if spinal anaesthesia was contra-indicated and a tourniquet was not required.",
+    "Include": true
+  },
+  {
+    "Id": 150,
+    "question": "48. (Apr-2000 Q1) A patient is to have surgery for resection of a AAA. what advantages does TOE have over ECG monitoring for intra-operative myocardial ischaemia?",
+    "Include": true
+  },
+  {
+    "Id": 151,
+    "question": "445. Finals May-2013 Q5 What are the perioperative concerns for the anaesthetist managing a patient with epilepsy?",
+    "Include": true
+  },
+  {
+    "Id": 152,
+    "question": "93. (May-2005 Q15) Discuss the advantages and disadvantages of intra-operative blood salvage",
+    "Include": true
+  },
+  {
+    "Id": 153,
+    "question": "174. Finals May-2010 Q10 a. Describe the pathophysiological effects of an inhalational injury following a house fire. (60%) b. What implications would this have for anaesthesia one week after the injury? (40%)",
+    "Include": true
+  },
+  {
+    "Id": 154,
+    "question": "309. (May-2007 Q12) How do you assess an otherwise well patient with regard to difficulty of intubation at the bedside? How accurate is such an assessment?",
+    "Include": true
+  },
+  {
+    "Id": 155,
+    "question": "198. (Aug-2000 Q2) Discuss the advantages and disadvantages of using a bronchoscope to check the position of the device.",
+    "Include": true
+  },
+  {
+    "Id": 156,
+    "question": "376. (Sep-2002 Q12) He becomes acutely agitated in the post anaesthesia care unit. Discuss the possible causes of this problem.",
+    "Include": true
+  },
+  {
+    "Id": 157,
+    "question": "32. (Apr96) Comment on the choice of 0.25% bupivacaine for her analgesia.",
+    "Include": true
+  },
+  {
+    "Id": 158,
+    "question": "480. (Apr98) How may physiological control of temperature regulation in adults by altered by general anaesthesia?",
+    "Include": true
+  },
+  {
+    "Id": 159,
+    "question": "47. (May-2002 Q3) Describe the management of a rise in CVP from 15 to 23 mmHg two minutes after aortic cross clamping",
+    "Include": true
+  },
+  {
+    "Id": 160,
+    "question": "298. (May-2003 Q12) You are to anaesthetise this patient for repeat laparoscopy. Justify the strategies you would use to minimise PONV",
+    "Include": true
+  },
+  {
+    "Id": 161,
+    "question": "217. (Sep-2004 Q9) Give reasons for your choice of local anaesthetic agent to provide intravenous regional anaesthesia for a reduction of a Colle's fracture in an 80 year old woman weighing 95kg.",
+    "Include": true
+  },
+  {
+    "Id": 162,
+    "question": "362. (Sep-2004 Q4) Outline the diagnostic criteria for an epidural abscess.",
+    "Include": true
+  },
+  {
+    "Id": 163,
+    "question": "492. Finals Oct-2013 Q14 Intensive care patients may be at risk of ventilator-associated pneumonia (VAP). Describe the likely aetiology of, and risk factors for, VAP. (50%) Outline prevention strategies that reduce the incidence of VAP. (50%)",
+    "Include": true
+  },
+  {
+    "Id": 164,
+    "question": "327. Finals Oct-2013 Q1 A 68-year-old man is scheduled for total knee replacement next week. He has hypertension, for which he is prescribed enalapril, and type 2 diabetes, for which he is prescribed metformin. Justify your perioperative management of his medications.",
+    "Include": true
+  },
+  {
+    "Id": 165,
+    "question": "197. (Aug-2000 Q1) A 57 yo man with a primary lung tumour is scheduled to have a thoracotomy for a left pneumonectomy. Justify your choice of airway deice for this surgery and describe how it is placed.",
+    "Include": true
+  },
+  {
+    "Id": 166,
+    "question": "497. (Sep-2007 Q7) A 25 year old, 65kg woman with acute severe asthma requires intubation and ventilation. Explain the problems associated with initiating ventilatory support in this patient and describe how you would overcome them.",
+    "Include": true
+  },
+  {
+    "Id": 167,
+    "question": "390. (Oct-2008 Q11) List the risk factors for the development of chronic pain following a surgical procedure. Outline possible mechanisms for the progression of acute to chronic pain.",
+    "Include": true
+  },
+  {
+    "Id": 168,
+    "question": "439. Finals May-2011 Q4 Evaluate the use of human albumin in perioperative volume replacement.",
+    "Include": true
+  },
+  {
+    "Id": 169,
+    "question": "276. Finals May-2013 Q3 An elderly patient is to undergo operative fixation of a fractured neck of femur. A radial arterial line is inserted prior to induction, and when transduced, the trace appears damped\na. What are the possible causes for the trace to appear damped in this patient? (50%)\nb. Outline the steps you would take to ensure the accuracy of your arterial line (50%)",
+    "Include": true
+  },
+  {
+    "Id": 170,
+    "question": "131. (May-2001 Q12) Describe the cartilages of the larynx.",
+    "Include": true
+  },
+  {
+    "Id": 171,
+    "question": "10. (Oct-2008 Q8) A 25yo primigravida patient presents to the delivery suite at 38 weeks gestation complaining of a headache and difficulty with her vision. Her BP is 180/115 and she has clonus. CTG monitoring shows no indications of foetal distress. Outline your initial management of her pre-eclampsia",
+    "Include": true
+  },
+  {
+    "Id": 172,
+    "question": "196. (Sep-2003 Q15) Evaluate the methods available to confirm correct placement of a double lumen endobronchial tube.",
+    "Include": true
+  },
+  {
+    "Id": 173,
+    "question": "36. Finals Oct-2013 Q3 Outline the principles of stroke volume variation (SVV) measurement. (50%) Describe how SVV measurement can be used to assist haemodynamic optimisation in a patient undergoing major elective abdominal surgery. (50%)",
+    "Include": true
+  },
+  {
+    "Id": 174,
+    "question": "116. (Apr96) How would you check a circle breathing system with carbon dioxide absorber, but without a mechanical ventilator, from the common gas outlet to the patient connection?",
+    "Include": true
+  },
+  {
+    "Id": 175,
+    "question": "73. (Apr96) Outline how you would manage post-operative vasospasm in this patient.",
+    "Include": true
+  },
+  {
+    "Id": 176,
+    "question": "16. (Sep-2003 Q4) A 28 yo woman with a past history of two caesarian sections is at 34 weeks gestation with placenta praevia demonstrated by ultrasound. She is Jehovah's witness and will not accept blood products under any circumstances. She requires casesarian section. Do you consider regional anaesthesia a reasonable first option in this case? Give reasons.",
+    "Include": true
+  },
+  {
+    "Id": 177,
+    "question": "120. (Oct-2012 Q12) Describe the anatomy of the transversus abdominis plane relevant to regional anaesthesia (70%). List the complications associted with TAP block (30%).",
+    "Include": true
+  },
+  {
+    "Id": 178,
+    "question": "467. (Apr96) How would you interpet a pre-operative serum potassium of 3.2 mmol/L in this woman if the laboratory normal range is 3.5-5.0 mmol/L?",
+    "Include": true
+  },
+  {
+    "Id": 179,
+    "question": "136. (Jul97) Describe the anatomy of the 6th intercostal space at the angle of the rib, relevant to an intercostal nerve block.",
+    "Include": true
+  },
+  {
+    "Id": 180,
+    "question": "410. (May-2004 Q9) Compare and contrast thiopentone and propofol for use in rapid sequence induction of anaesthesia.",
+    "Include": true
+  },
+  {
+    "Id": 181,
+    "question": "434. Finals May-2010 Q3 A 20 year old female with a body mass index of 48 kg/m2 presents for an elective diagnostic laparoscopy for endometriosis. She has no other medical conditions. Describe the potential problems associated with anaesthetising this patient.",
+    "Include": true
+  },
+  {
+    "Id": 182,
+    "question": "14. (May-2006 Q15) Discuss the elements you consider important when obtaining consent for epidural analgesia in labor.",
+    "Include": true
+  },
+  {
+    "Id": 183,
+    "question": "247. Finals May-2010 Q13\na. What do you understand by the term “Universal Precautions”? (40%)\nb. Describe how you apply these precautions in your daily anaesthesia practice. (60%)",
+    "Include": true
+  },
+  {
+    "Id": 184,
+    "question": "278. (May-2010 Q2) a. List the hazards to the patient associated with the prone position under general anaesthesia. (60%) b. How can these hazards be minimised? (40%)",
+    "Include": true
+  },
+  {
+    "Id": 185,
+    "question": "41. (May-2006 Q11) Discuss the principles underlying the management of a general anaesthetic for carotid endarterectomy.",
+    "Include": true
+  },
+  {
+    "Id": 186,
+    "question": "63. (May-2005 Q1) Discuss the perioperative use of nimodpine for a patient undergoing clipping of a cerebral aneurysm.",
+    "Include": true
+  },
+  {
+    "Id": 187,
+    "question": "52. (Jul98) When the problem has been recognised, what is the appropriate management?",
+    "Include": true
+  },
+  {
+    "Id": 188,
+    "question": "408. (Jul-2004 Q5) Discuss the problems of clopidogrel for the perioperative period",
+    "Include": true
+  },
+  {
+    "Id": 189,
+    "question": "261. (Sep-2002 Q3) What strategies may be used to assist your colleague with the stress they may feel about the forthcoming investigation?",
+    "Include": true
+  },
+  {
+    "Id": 190,
+    "question": "452. (May-2006 Q3) A sixty-five year old woman presents for a total abdominal hysterectomy. She has non-insulin dependent diabetes mellitus that is normally controlled with an oral hypoglycaemic agent. Describe your perioperative management of her blood sugar.",
+    "Include": true
+  },
+  {
+    "Id": 191,
+    "question": "184. (Sep-2001 Q12) On transfer to the CT scanner his left pupil dilates. Describe your management.",
+    "Include": true
+  },
+  {
+    "Id": 192,
+    "question": "459. (May-2002 Q12) Discuss the advantages and disadvantages of using cox-2 selective non-steroidal anti-inflammatory drugs as part of your postoperative analgesic plan in this patient.",
+    "Include": true
+  },
+  {
+    "Id": 193,
+    "question": "123. (May-2008 Q3) Describe the anatomy of the brachial plexus relevant to performing and interscalene block under ultrasound guidance. Include a drawing of the real or sono-anatomy you would see in a transverse view of the brachial plexus at the point of needle insertion.",
+    "Include": true
+  },
+  {
+    "Id": 194,
+    "question": "213. (Sep-2006 Q5) Describe and justify an appropriate strategy for the use of low molecular weight heparin in a patient undergoing knee replacement surgery with an epidural block.",
+    "Include": true
+  },
+  {
+    "Id": 195,
+    "question": "112. (Aug96) Describe the principles of measurement used in a volatile anaesthetic agent monitor in an operating theatre where mass spectrometry is not available.",
+    "Include": true
+  },
+  {
+    "Id": 196,
+    "question": "109. (Jul97) Contrast a bourdon gauge with a variable orifice flowmeter for the measurement of gas flow.",
+    "Include": true
+  },
+  {
+    "Id": 197,
+    "question": "29. (Jul98) Describe and justify the regional anaesthesia technique you would choose for this woman.",
+    "Include": true
+  },
+  {
+    "Id": 198,
+    "question": "111. (Apr97) How does pulse oximetry differ from laboratory co-oximetry performed on a blood specimen?",
+    "Include": true
+  },
+  {
+    "Id": 199,
+    "question": "35. Finals Oct-2013 Q5 An adult patient is scheduled for formation of an arterio-venous fistula at the wrist. Describe the nerve supply relevant to this surgery. (30%) Discuss the suitability of an interscalene block in this situation. (70%)",
+    "Include": true
+  },
+  {
+    "Id": 200,
+    "question": "442. Finals Oct-2011 Q13 A 50-year-old man presents with confusion and the following electrolyte profile:\nNa+ 155 mmol/l\nK+ 4 mmol/l\nHCO3− 15 mmol/l\nCreatinine 120 μmol/l\nHb 200 g/l\na. What are the possible causes of this abnormality? (30%)nb. How can they be distinguished? (70%)",
+    "Include": true
+  },
+  {
+    "Id": 201,
+    "question": "468. (Apr96) If her pre-operative serum potassium had been 5.7 mmol/L, how would this influence your anaesthetic management?",
+    "Include": true
+  },
+  {
+    "Id": 202,
+    "question": "367. (Jul98) How does the history of him having a heart transplant influence your anaesthetic management?",
+    "Include": true
+  },
+  {
+    "Id": 203,
+    "question": "53. (Jul98) Discuss the choice of the internal jugular vein as the initial site to attempt central vein cannulation in this patient.",
+    "Include": true
+  },
+  {
+    "Id": 204,
+    "question": "352. (May-2001 Q2) Justify your choice of deep venous thrombosis prophylaxis.",
+    "Include": true
+  },
+  {
+    "Id": 205,
+    "question": "351. (May-2001 Q1) A 63 yo man who lives independently, presents with a perforated ulcer requiring laparotomy. He has been treated for cardiac failure for 5 years.How would you assess the severity of his cardaic failure at the bedside?",
+    "Include": true
+  },
+  {
+    "Id": 206,
+    "question": "469. Finals May-2011 Q7 A patient is scheduled for posterior fossa surgery in the sitting position. (a) Outline the precautions you would take to minimise the risk of venous air embolism. (70%) (b) How would you recognise an air embolism intraoperatively? (30%)",
+    "Include": true
+  },
+  {
+    "Id": 207,
+    "question": "24. (Apr-2000 Q6) Indicate elements you consider important when obtaining consent for epidural analgesia in labour.",
+    "Include": true
+  },
+  {
+    "Id": 208,
+    "question": "254. (Sep-2005 Q9) Discuss the purpose of a postoperative visit.",
+    "Include": true
+  },
+  {
+    "Id": 209,
+    "question": "88. (May-2007 Q2) How does soda lime work? List the hazards associated with its use.",
+    "Include": true
+  },
+  {
+    "Id": 210,
+    "question": "151. (Apr99) Explain the physiological effects of a carbon dioxide pneumoperitoneum in this man.",
+    "Include": true
+  },
+  {
+    "Id": 211,
+    "question": "293. (Sep-2004 Q2) Outline the possible causes of postoperative loss of vision",
+    "Include": true
+  },
+  {
+    "Id": 212,
+    "question": "313. (Sep-2005 Q5) What is the role of a laryngeal mask airway in a failed intubation for laparotomy?",
+    "Include": true
+  },
+  {
+    "Id": 213,
+    "question": "92. (May-2005 Q8) Draw a circle breathing system and give reasons for the location of the components.",
+    "Include": true
+  },
+  {
+    "Id": 214,
+    "question": "368. (Jul98) Describe the strategies which should be employed to minimise the risk of sepsis associated with his periperhal venous cannula.",
+    "Include": true
+  },
+  {
+    "Id": 215,
+    "question": "236. (Jul97) A 50 year old apparently well man presents for inguinal hernia repair under spinal anaesthesia. Discuss the factors which would influence your choice of subarachnoid drug(s) for this surgery.",
+    "Include": true
+  },
+  {
+    "Id": 216,
+    "question": "432. (Aug96) From a study of two groups of patients, each of 43, it is concluded that drug A is better than drug B because fewer patients vomit when given A, (p=0.04). What is your view of the sample size with respect to the conclusion?",
+    "Include": true
+  },
+  {
+    "Id": 217,
+    "question": "85. (Oct-2008 Q1) Outline the operating principles and safety features of a modern variable bypass out of circuit vaporiser.",
+    "Include": true
+  },
+  {
+    "Id": 218,
+    "question": "353. (May-2001 Q3) How would you manage him if he developed pulmonary oedema during his surgery?",
+    "Include": true
+  },
+  {
+    "Id": 219,
+    "question": "252. (Oct-2008 Q4) In what circumstances is it permissible to permanently handover responsibility for a colleague and how would you ensure that this handover occurs safely?",
+    "Include": true
+  },
+  {
+    "Id": 220,
+    "question": "56. Finals Oct-2011 Q6 A 50-year-old patient presents for urgent craniotomy and decompression of a subdural haematoma. Two days ago he was well, but now has a Glasgow Coma Scale score of 11. He is combative and has pulled out his intravenous line. On inspection there are no obvious veins for cannulation. a. List the options available for induction and intubation. (30%) b. Describe and justify your preferred approach. (70%)",
+    "Include": true
+  },
+  {
+    "Id": 221,
+    "question": "329. Finals Oct-2012 Q2 A 75-year-old man presents for right hemicolectomy for an obstructing lesion of the ascending colon that has failed to settle with conservative management. He had a drug-eluting stent placed eight months ago, and is currently on clopidogrel and aspirin. Discuss and justify your plan for perioperative management of his antiplatelet therapy?",
+    "Include": true
+  },
+  {
+    "Id": 222,
+    "question": "345. (May-2006 Q12) List the causes of acute atrial fibrillation in the perioperative period. Describe your management of acute atrial fibrillation which occurs in the PACU (Post-anaesthesia Care Unit) in a patient who has had a total hip replacement.",
+    "Include": true
+  },
+  {
+    "Id": 223,
+    "question": "475. (May-2008 Q15) Outline the problems of providing anaesthesia for an adult in the MRI suite.",
+    "Include": true
+  },
+  {
+    "Id": 224,
+    "question": "451. (Sep-2006 Q5) List and explain the typical electrolyte abnormalities of chronic renal failure.",
+    "Include": true
+  },
+  {
+    "Id": 225,
+    "question": "113. (Aug96) Describe the safety features which may be incorporated in the flowmeter bank of a modern anaesthetic machine.",
+    "Include": true
+  },
+  {
+    "Id": 226,
+    "question": "96. (May-2004 Q15) \"Use of bis or other similar monitor should be the standard of care during total intravenous anaesthesia\". Discuss this statement.",
+    "Include": true
+  },
+  {
+    "Id": 227,
+    "question": "403. (Sep-2005 Q13) The hospital pharmacist notifies you as Director of Anaesthesia that Thiopentone is to be withdrawn from the hospital formulary due to minimal usage. Outline and justify your response.",
+    "Include": true
+  },
+  {
+    "Id": 228,
+    "question": "243. Finals May-2011 Q3 Explain the professional attributes of an anaesthetist in specialist practice.",
+    "Include": true
+  },
+  {
+    "Id": 229,
+    "question": "189. Finals May-2012 Q6 A 25-year-old man with recurrent pneumothorax and persistent air leak is scheduled for video-assisted thoracoscopic pleurodesis. Outline the considerations involved in induction of anaesthesia in a patient with a persistent air leak (50%) Outline the management of an intraoperative deterioration of oxygen saturation in this patient (50%)",
+    "Include": true
+  },
+  {
+    "Id": 230,
+    "question": "228. (Aug-2000 Q5) The following day the surgeon calls you because the patient is complaining of pain in his right thigh. What possible causes would you consider and how would you respond?",
+    "Include": true
+  },
+  {
+    "Id": 231,
+    "question": "398. SAQ-Jul05-Q4 Describe the features and management of phantom limb pain.",
+    "Include": true
+  },
+  {
+    "Id": 232,
+    "question": "421. Finals May-2013 Q9 a. What is evidence based medicine. (30%)\nb. Describe the features of a systematic review, indicating how it may influence your practice of anaesthesia. (70%)",
+    "Include": true
+  },
+  {
+    "Id": 233,
+    "question": "87. (Sep-2007 Q1) Explain the features of the electrical power supply to operating theatres that protect patients from marcoshock.",
+    "Include": true
+  },
+  {
+    "Id": 234,
+    "question": "70. (Jul97) What are the advantages and disadvantages of the use of nitrous oxide in general anaesthesia for intracranial surgery?",
+    "Include": true
+  },
+  {
+    "Id": 235,
+    "question": "178. (Apr-2009 Q7) Outline the coagulation changes you would expect in a patient with a ruptured liver from blunt abdominal trauma requiring massive transfusion (50%) and describe how you would minimise then (50%).",
+    "Include": true
+  },
+  {
+    "Id": 236,
+    "question": "427. (Sep-2005 Q2) Discuss ways in which you can decrease bias in a clinical trial for a new antihypertensive agent.",
+    "Include": true
+  },
+  {
+    "Id": 237,
+    "question": "262. (Sep-2001 Q4) A recovery charge nurse approaches you expressing concern at the amount of opiates one of your consultant colleagues is booking out for minor procedures. Today this colleague is working as the sole anaesthetist in the cardiac theatre. What will your be priorities in addressing the nurse's concerns?",
+    "Include": true
+  },
+  {
+    "Id": 238,
+    "question": "49. (Apr-2000 Q2) Justify the measures you would use to minimise the risk of acute tubular necrosis if the surgeon is to clamp the supra-renal aorta.",
+    "Include": true
+  },
+  {
+    "Id": 239,
+    "question": "437. Finals Oct 2010 Q3 A 45-year-old man with a longstanding history of alcoholism is booked for upper gastrointestinal endoscopy and banding of oesophageal varices following an episode of haematemesis.\n(a) How is the severity of this patient’s liver disease assessed? (50%)\n(b) How do these findings influence your evaluation of this patient’s perioperative risk? (50%)",
+    "Include": true
+  },
+  {
+    "Id": 240,
+    "question": "246. Finals May-2012 Q4 An elderly patient has previously declined an above knee amputation for a gangrenous leg. She becomes acutely unwell, confused and no longer competent to make decisions. At the request of the family, the surgeon has approached you to discuss whether to proceed with surgery or not. She is likely to die without the surgery.\nOutline the ethical considerations you would discuss with the surgeon.",
+    "Include": true
+  },
+  {
+    "Id": 241,
+    "question": "423. (Oct-2012 Q14) The mallampati test is a commonly used bedside screening tool to assess the probability of a difficult intubation. Explain the terms sensitivity, specificity, PPV and NPV when applied to this test.",
+    "Include": true
+  },
+  {
+    "Id": 242,
+    "question": "485. (May-2003 Q5) Desflurane should be used only for day case procedures. Discuss this statement.",
+    "Include": true
+  },
+  {
+    "Id": 243,
+    "question": "391. (May-2008 Q5) A 65 yo female who weighs 85kg and is 165cm tall (BMI 31) is scheduled for TKR surgery. Discuss the pros and cons of intrathecal morphine for post operative analgesia in this patient.",
+    "Include": true
+  },
+  {
+    "Id": 244,
+    "question": "493. (Oct-2012 Q7) In regard to total parenteral nutrition: 1. What are the indications? (30%). 2. What are the complications? (70%).",
+    "Include": true
+  },
+  {
+    "Id": 245,
+    "question": "182. (Sep-2001 Q10) A 72 yo male has been bought to your emergency room after being removed from a motor vehicle, which has been involved in a high speed collision. He is moaning, his eyes are closed and he withdraws to pain. What are the priorities in managing this patient on arrival in the emergency department?",
+    "Include": true
+  },
+  {
+    "Id": 246,
+    "question": "357. (Apr98) How would you manage his blood pressure in the peri-operative period if no cause had been found for this hypertension?",
+    "Include": true
+  },
+  {
+    "Id": 247,
+    "question": "1. Finals May-2010 Q5 A 26 year old woman with subclinical myotonic dystrophy presents to the high risk obstetric clinic. She is 25 weeks pregnant in her first pregnancy and otherwise well. She hopes for a normal vaginal delivery. Describe and justify your recommendations for the management of her analgesia for labour and the perioperative management of any potential operative delivery.",
+    "Include": true
+  },
+  {
+    "Id": 248,
+    "question": "256. (May-2005 Q14) A recovery charge nurse approaches you as Supervisor of Training because she is concerned at the amount of opiates one of your trainees has been signed out for patients. What will be your priorities in addressing the nurses concern?",
+    "Include": true
+  },
+  {
+    "Id": 249,
+    "question": "295. (Sep-2003 Q12) Discuss the options for management of a cold white hand with poor capillary refill ten minutes after placement of a radial artery cannula.",
+    "Include": true
+  },
+  {
+    "Id": 250,
+    "question": "272. Finals Oct-2011 Q5 Insertion of a central venous line may result in cardiac tamponade.\na. How would you recognise this complication? (50%)\nb. How could you minimise the risk of this complication? (50%)",
+    "Include": true
+  },
+  {
+    "Id": 251,
+    "question": "40. (Sep-2006 Q3) Describe the cardiovascular changes which occur during clamping and unclamping of the supra-renal aorta during repair of an abdominal aortic aneurysm in a patient with normal ventricular function and outline your strategies to maintain critical organ perfusion during these times.",
+    "Include": true
+  },
+  {
+    "Id": 252,
+    "question": "234. (Apr98) The patient becomes unconscious after injection of a total of 10 mls of bupivacaine 5mg/ml for penile block. Describe your initial assessment.",
+    "Include": true
+  },
+  {
+    "Id": 253,
+    "question": "499. (May-2007 Q5) Discuss the usefulness of the continuous measurement of mixed venous oxygen saturation in the intensive care patient?",
+    "Include": true
+  },
+  {
+    "Id": 254,
+    "question": "378. (Apr99) A severely depressed 60yo man presents for electroconvulsive therapy. His history includes controlled hypertension and stable ischaemic heart disease. He is taking MAO inhibitor phenelzine for depression. What are the implications of his phenelzine therapy of relevance to GA for ECT?",
+    "Include": true
+  },
+  {
+    "Id": 255,
+    "question": "470. Finals May-2013 Q12 What are the hazards of the prone position for patients under general anaesthesia and how can they be minimized?",
+    "Include": true
+  },
+  {
+    "Id": 256,
+    "question": "60. (Oct-2008 Q10) Discuss the management of cerebral vasospasm following the coiling of a cerebral aneurysm.",
+    "Include": true
+  },
+  {
+    "Id": 257,
+    "question": "235. (Apr98) The patient is found to be in ventricular fibrillation. Describe your management of this situation.",
+    "Include": true
+  },
+  {
+    "Id": 258,
+    "question": "43. (May-2004 Q11) Discuss the strategies you would consider in order to protect renal function during a laparotomy for an abdominal aneurysm repair.",
+    "Include": true
+  },
+  {
+    "Id": 259,
+    "question": "347. (Sep-2005 Q11) How would you assess the severity of cardiac failure in a 75 year old man presenting for joint replacement surgery? Include any relevant investigations.",
+    "Include": true
+  },
+  {
+    "Id": 260,
+    "question": "458. (May-2002 Q11) She has the operation under a spinal anaesthesia and light sedation. Just as the femoral prosthesis is being cemented in, she loses consciousness. How will your manage this?",
+    "Include": true
+  },
+  {
+    "Id": 261,
+    "question": "127. (May-2004 Q10) Describe the anatomy relevant to a digital nerve block of the ring (4th) finger",
+    "Include": true
+  },
+  {
+    "Id": 262,
+    "question": "188. (Jul97) Six hours after the injury, he develops ventricular ectopic beats. How would you diagnose the cause of these ectopic beats?",
+    "Include": true
+  },
+  {
+    "Id": 263,
+    "question": "148. (Aug-2000 Q14) What will you advise her regarding the risks of continuing to smoke prior to the operation?",
+    "Include": true
+  },
+  {
+    "Id": 264,
+    "question": "364. (Sep-2003 Q9) A 35 yo man had a heart transplant 4 years ago. He now requires elective hip surgery. He is on cyclosporine, azathioprine and prednisolone. What are the implications of his immunosuppressive treatment for perioperative anaesthesia care?",
+    "Include": true
+  },
+  {
+    "Id": 265,
+    "question": "257. (Sep-2004 Q12) What are your obligations if you suspect a colleague to be chronically impaired?",
+    "Include": true
+  },
+  {
+    "Id": 266,
+    "question": "190. Finals May-2013 Q13 a. Why can hypoxaemia occur after changing from two lung to one lung ventilation? 50% b. Describe the treatment of hypoxaemia in one lung ventilation (50%)",
+    "Include": true
+  },
+  {
+    "Id": 267,
+    "question": "13. (Sep-2006 Q7)While performing an epidural for labour analgesia in an otherwise healthy primigravida in first stage you inadvertently cause a dural puncture with the Touhy needle. Describe and justify your management of this complication.",
+    "Include": true
+  },
+  {
+    "Id": 268,
+    "question": "308. (May-2010 Q15) a. What is the physiological basis of preoxygenation? (50%) b. Describe your method of preoxygenation including how you assess its adequacy. (50%)",
+    "Include": true
+  },
+  {
+    "Id": 269,
+    "question": "39. (May-2007 Q14) An otherwise fit 30 yr old man is having microvascular reimplantation of his forearm. Describe methods available to optimise the perfusion of the perfusion of the reimplanted limb in the post-operative period.",
+    "Include": true
+  },
+  {
+    "Id": 270,
+    "question": "97. (Sep-2003 Q5) What is micro-shock? Outline methods designed to prevent it occurring in the operating theatre.",
+    "Include": true
+  },
+  {
+    "Id": 271,
+    "question": "102. (Apr-2000 Q13) What are the considerations in setting the fresh gas flow rate when anaesthetising an adult with sevoflurane in nitrous oxide, oxygen being administered using a circle absorber system?",
+    "Include": true
+  },
+  {
+    "Id": 272,
+    "question": "91. (May-2005 Q6) Compare the use of a pulmonary artery catheter and transoesophageal echocardiography in evaluating cardiac function intraoperatively.",
+    "Include": true
+  },
+  {
+    "Id": 273,
+    "question": "417. (Aug96) What are the advantages and disadvantages of the use of propofol for sedation of intensive care patients?",
+    "Include": true
+  },
+  {
+    "Id": 274,
+    "question": "179. (May-2008 Q4) Describe the clinical features and treatment of Fat Embolism Syndrome.",
+    "Include": true
+  },
+  {
+    "Id": 275,
+    "question": "64. (Sep-2004 Q7) Describe the pathophysiology and diagnosis of diabetes insipidus following head injury.",
+    "Include": true
+  },
+  {
+    "Id": 276,
+    "question": "251. (Oct-2008 Q14) What are the signs that may make you suspect opioid abuse in a colleage? If you had suspicions of opioid abuse in a colleague outline the principles that should guide intervention?",
+    "Include": true
+  },
+  {
+    "Id": 277,
+    "question": "69. (Sep-2004 Q7) (Apr-2000 Q14) Describe the pathophysiology and diagnosis of diabetes insipidus following head injury.",
+    "Include": true
+  },
+  {
+    "Id": 278,
+    "question": "500. (May-2007 Q13) Ambulance officers performing CPR with bag and mask ventilation. She has been rescued from a swimming pool.",
+    "Include": true
+  },
+  {
+    "Id": 279,
+    "question": "440. Finals May-2011 Q2 A patient with known idiopathic pulmonary fibrosis (fibrosing alveolitis) presents for an open right hemicolectomy. (a) What are the respiratory issues facing this patient with regard to their general anaesthetic? (70%) (b) Explain your intraoperative ventilation strategy. (30%)",
+    "Include": true
+  },
+  {
+    "Id": 280,
+    "question": "71. (Apr96) A previously well 38 yo man presents for urgent clipping of a middle cerebral artery aneurysm. He has photophobia, and a blood pressure of 150/90. Give an account of how you would minimise the risk of arterial hypertension at tracheal intubation.",
+    "Include": true
+  },
+  {
+    "Id": 281,
+    "question": "436. Finals Oct-2010 Q13 Outline the principles of an initial management plan for diabetic ketoacidosis, having regard to the physiological derangements involved.",
+    "Include": true
+  },
+  {
+    "Id": 282,
+    "question": "490. Finals Oct-2011 Q9 You are called to anaesthetise a 70-year-old man with a perforated bowel for laparotomy, three days after colonoscopy.\nOutline the measures you will take to reduce the likelihood of this patient developing acute lung injury",
+    "Include": true
+  },
+  {
+    "Id": 283,
+    "question": "369. Finals May-2013 Q6 A fit 37-year-old female presents for laparoscopic appendicectomy. She reports a “severe allergic reaction” during her a laparoscopy 5 years ago. There were no tests performed and the records are not available. A. Outline your strategy for managing this case. (70%) b. List the investigations that are recommended following any suspected anaphylaxis and when they should be performed. (30%)",
+    "Include": true
+  },
+  {
+    "Id": 284,
+    "question": "183. (Sep-2001 Q11) What is the place for early intubation and controlled ventilation for this patient?",
+    "Include": true
+  },
+  {
+    "Id": 285,
+    "question": "275. Finals May-2011 Q12 (a) What are the complications associated with residual neuromuscular blockade? (30%) (b) Evaluate the methods available to assess residual neuromuscular blockade. (70%)",
+    "Include": true
+  },
+  {
+    "Id": 286,
+    "question": "344. (May-2006 Q8) The first patient on your orthopaedic list tomorrow is scheduled for left total hip replacement. He has an implanted (permanent) cardiac pacemaker. Discuss the relevant factors in your pre-anaesthetic assessment of this patient.",
+    "Include": true
+  },
+  {
+    "Id": 287,
+    "question": "387. (May-2010 Q11) A 34 year old, opioid-dependant woman is complaining of severe pain on the day after a first metatarsal osteotomy. The nurses are concerned she is drug-seeking. a. How would you assess this patient? (60%) b. Outline your pain management plan. (40%)",
+    "Include": true
+  },
+  {
+    "Id": 288,
+    "question": "255. (Sep-2005 Q14) You see a patient in the preanaesthetic clinic who asks you to administer an \"alternative medicine\" as part of their anaesthetic for total hip replacement. How would you respond to this?",
+    "Include": true
+  },
+  {
+    "Id": 289,
+    "question": "89. (May-2007 Q6) List the patterns of peripheral nerve stimulation that may be used to monitor non-depolarising neuromuscular blockade during anaesthesia and describe how each is used in clinical practice.",
+    "Include": true
+  },
+  {
+    "Id": 290,
+    "question": "163. (Sep-2003 Q13) How can recurrent laryngeal nerve function be assessed in the postoperative period?",
+    "Include": true
+  },
+  {
+    "Id": 291,
+    "question": "303. (Aug96) An otherwise healthy 25 year old woman undergoes hysteroscopic endometrial ablation. After an uneventful general anaesthetic she is slow to wake in the recovery ward and becomes restless and confused. How would you diagnose the cause of this delayed recovery?",
+    "Include": true
+  },
+  {
+    "Id": 292,
+    "question": "288. (May-2006 Q2) Describe the factors that contribute to intravenous drug errors in anaesthesia practice. Discuss the methods available to reduce the incidents of such errors.",
+    "Include": true
+  },
+  {
+    "Id": 293,
+    "question": "23. (Apr-2000 Q5) The patient is now ready for vaginal delivery, but perineal analgesia is inadequate. Discuss the method you would recommend to remedy this.",
+    "Include": true
+  },
+  {
+    "Id": 294,
+    "question": "284. (May-2007 Q10) A 56 year old diabetic is scheduled for laparoscopic nephrectomy. This is his pre-operative 12 lead ECG. (See Examiners Reports.)",
+    "Include": true
+  },
+  {
+    "Id": 295,
+    "question": "140. (Apr-2009 Q6) Describe the physiological effects of pneumoperitoneum with CO2 for laparoscopic surgery.",
+    "Include": true
+  },
+  {
+    "Id": 296,
+    "question": "250. (Oct-2012 Q6) You are the consultant who has been tasked with introduction of the WHO Surgical Safety Checklist to your hospital. 1. What are the principles behind the checklist that enhance patient safety, with reference to each component (70%). 2. What do you expect the barriers to its effective implementation to be? (30%).",
+    "Include": true
+  },
+  {
+    "Id": 297,
+    "question": "382. Finals Oct-2011 Q10 A 70-year-old patient wearing a transdermal buprenorphine slow release patch (Norspan®) (5μg/h) presents for knee arthroscopy.\na. Describe the mechanism of action and pharmacokinetic profile of this patch. (50%)\nb. What are the implications for perioperative pain management? (50%)",
+    "Include": true
+  },
+  {
+    "Id": 298,
+    "question": "177. (Oct-2012 Q10) A trauma patient presents thirty minutes after a significant crush injury, with an estimated 40% blood loss. He was previously well. 1. Explain the coagulation abnormalities you would expect to see in this patient at this stage (60%). 2. Discuss the current evidence for treatment of these abnormalities (40%).",
+    "Include": true
+  },
+  {
+    "Id": 299,
+    "question": "431. (Apr97) A clinical trial is planned to evaluate a new analgesic. What are the ethical considerations in having a placebo group in the trial?",
+    "Include": true
+  },
+  {
+    "Id": 300,
+    "question": "221. (Sep-2002 Q8) Three weeks following the surgery, the patient contacts you as she has persistent numbness in her big toe. Describe your management of this situation.",
+    "Include": true
+  },
+  {
+    "Id": 301,
+    "question": "121. (Apr-2009 Q10) Draw a diagram illustrating the bronchial anatomy to the level of the lobar bronchi (50%) and describe how you would use a fibreoptic bronchoscope to correctly position a R sided DLT (50%)",
+    "Include": true
+  },
+  {
+    "Id": 302,
+    "question": "416. (Apr97) Outline the undesirable effects of intravenous protamine sulphate.",
+    "Include": true
+  },
+  {
+    "Id": 303,
+    "question": "409. (Sep-2004 Q14) What are the relative merits of sodium nitroprusside and glyceryl trinitrate in the control of blood pressure in anaesthetised patients?",
+    "Include": true
+  },
+  {
+    "Id": 304,
+    "question": "466. (Apr96) An apparently healthy 71 yo woman presents with a fractured neck of femur requiring internal fixation. She smokes 15 cigarettes each day and drinks approximately 30 gm of alcohol daily. She takes no medications. Justify the blood tests you would request when making your pre-anaesthetic visit.",
+    "Include": true
+  },
+  {
+    "Id": 305,
+    "question": "355. (Apr98) A 59 yo patient presents for the first time with a subacute bowel obstruction requiring laparotomy in the next two or three days. You are asked by the surgeon to review the patient because on admission his blood pressure is 210/120. Hypertension has not been previously diagnosed in this man and he is on no medications. Describe your assessment of his hypertension by history and examination.",
+    "Include": true
+  },
+  {
+    "Id": 306,
+    "question": "55. Finals Oct-2011 Q7 Four hours after multi-level laminectomy with instrumentation, your patient complains of unilateral visual loss.\na. What is your differential diagnosis? (40%)\nb. How can you minimise the risk of visual complications in the prone patient? (60%)",
+    "Include": true
+  },
+  {
+    "Id": 307,
+    "question": "383. Finals May-2012 Q11 You are asked to initiate an opioid patient-controlled analgesia service in your hospital. How would you ensure patient safety? (70%) What are the key components to include in designing an order form? (30%)",
+    "Include": true
+  },
+  {
+    "Id": 308,
+    "question": "395. (May-2005 Q4) Discuss the requirements for and limitation of the use of patient-controlled analgesia (PCA) as a technique.",
+    "Include": true
+  },
+  {
+    "Id": 309,
+    "question": "22. (Apr-2000 Q4) You are asked to provide pain relief for a woman in labour. She is a primigravida, has twins and is 5cm dilated. You provide epidural analgesia.Describe and give reasons for your choice and method of delivery of drug(s).",
+    "Include": true
+  },
+  {
+    "Id": 310,
+    "question": "312. (May-2006 Q13) What is the physiological basis of preoxygenation? Describe your method of preoxygenation including how you assess its adequacy.",
+    "Include": true
+  },
+  {
+    "Id": 311,
+    "question": "292. (May-2005 Q7) List the possible causes of failure to emerge from general anaesthesia and describe how you would differentiate them",
+    "Include": true
+  },
+  {
+    "Id": 312,
+    "question": "139. Finals Oct-2009 Q14 A patient has smoked 20 cigarettes a day for over 25 years. What are the expected physiological changes that would occur in the first 3 months following cessation of smoking? Include a time frame for the changes you describe. (60%) What are the clinical benefits, with regard to anaesthesia, of smoking cessation in this patient? (40%)",
+    "Include": true
+  },
+  {
+    "Id": 313,
+    "question": "169. (Apr99) How can problems associated with the use of vasoconstrictors in nasal surgery be prevented?",
+    "Include": true
+  },
+  {
+    "Id": 314,
+    "question": "464. (Apr97) 48 hours post-operatively the patient becomes profoundly weak. How would you manage this?",
+    "Include": true
+  },
+  {
+    "Id": 315,
+    "question": "481. (Jul97) A 70 yo woman is scheduled for colectomy under GA. Comapre the effectiveness of the methods you would use to prevent her becoming hypothermic by the completion of surgery.",
+    "Include": true
+  },
+  {
+    "Id": 316,
+    "question": "479. (Sep-2004 Q3) What are the problems of using the beach chair position for shoulder surgery?",
+    "Include": true
+  },
+  {
+    "Id": 317,
+    "question": "394. (May-2006 Q4) Discuss the role of non steroidal anti-inflammatory drugs for post operative analgesia in adult day surgery patients.",
+    "Include": true
+  },
+  {
+    "Id": 318,
+    "question": "128. (May-2003 Q4) Describe the anatomy of the ulnar nerve, relevant to supplementation of an interscalene brachial plexus block which is inadequate for an operation on the hand.",
+    "Include": true
+  },
+  {
+    "Id": 319,
+    "question": "406. (May-2005 Q5) Compare the relative merits of gelatin-based intravenous solutions and dextran intravenous solutions.",
+    "Include": true
+  },
+  {
+    "Id": 320,
+    "question": "90. (May-2007 Q9) The T-Piece is obsolete in modern anaesthesia practice. Discuss.",
+    "Include": true
+  },
+  {
+    "Id": 321,
+    "question": "227. (Aug-2000 Q4) A 46 yo male presents to a day procedure unit for a right knee arthoscopy. He wished to avoid general anaesthesia as he has experienced significant nausea in the past. In performing a spinal anaesthetic for this procedure, what factors would you consider in choosing the local anaesthetic agent?",
+    "Include": true
+  },
+  {
+    "Id": 322,
+    "question": "141. (Oct-2008 Q5) An otherwise well 60-year-old man is ahving a radical prostatectomy. list abd briefly evaluate strategies to prevent peri-operative thromboembolism.",
+    "Include": true
+  },
+  {
+    "Id": 323,
+    "question": "202. (Oct-2008 Q9) Describe a technique of peribulbar block for cataract surgery. Describe how you would minimise complications of this block.",
+    "Include": true
+  },
+  {
+    "Id": 324,
+    "question": "15. (May-2004 Q14) Discuss the contra-indications to spinal anaesthesia for caesarean section.",
+    "Include": true
+  },
+  {
+    "Id": 325,
+    "question": "241. (Apr97) After 70 minutes of surgery the patient becomes restless. Explain your management.",
+    "Include": true
+  },
+  {
+    "Id": 326,
+    "question": "216. (Sep-2004 Q8) Describe the anatomy relevant to providing an ankle block for surgery on the big toe.",
+    "Include": true
+  },
+  {
+    "Id": 327,
+    "question": "457. (May-2002 Q10) A 75 yo woman with severe long standing rheumatoid arthritis presents for hip replacement. How will her rheumatoid arthritis influence your anaesthetic management?",
+    "Include": true
+  },
+  {
+    "Id": 328,
+    "question": "50. (Apr-2000 Q3) What are the relative merits of sodium nitroprusside vs glyceryl trinitrate for control of hypertension when the aorta is cross clamped?",
+    "Include": true
+  },
+  {
+    "Id": 329,
+    "question": "78. Finals May-2012 Q14 a. What do the terms decontamination, disinfection and sterilisation mean? (30%) b. What measures should be in place to minimise the risk of transmission of infection to the respiratory tract of patients via anaesthetic equipment? (70%)",
+    "Include": true
+  },
+  {
+    "Id": 330,
+    "question": "341. (May-2008 Q10) A patient with an AICD with biventricular pacing presents for elective surgery. Describe how the presence of this device influences your perioperative management of this patient.",
+    "Include": true
+  },
+  {
+    "Id": 331,
+    "question": "271. Finals Oct-2011 Q14 A 70-year-old man has undergone radical prostatectomy under general anaesthesia. On emergence he has crushing central chest pain, is restless, and has cold, clammy skin. His blood pressure is 90/50 mm Hg, pulse rate 110/minute and SpO2 is 95% on oxygen via a Hudson mask.\nA twelve-lead ECG shows widespread ST segment elevation across the anterior chest leads.\na. Describe your immediate management. (50%)\nb. What are the treatment priorities for this patient? (50%)",
+    "Include": true
+  },
+  {
+    "Id": 332,
+    "question": "487. (Sep-2002 Q5) (Jul98) Soon after colonoscopy begins his pulse rate falls to 40 beats/min and blood pressure to 60/40 mmHg. Describe your management.",
+    "Include": true
+  },
+  {
+    "Id": 333,
+    "question": "334. Finals May-2010 Q6 A 40 year old man with hypertrophic obstructive cardiomyopathy (HOCM) presents for elective laparoscopic cholecystectomy. a. Describe the principles of intraoperative haemodynamic management for this patient. (40%) b. How would you manage hypotension post induction of general anaesthesia in this patient? (60%)",
+    "Include": true
+  },
+  {
+    "Id": 334,
+    "question": "425. (Oct-2008 Q13) Explain the terms sensitivity, specificity, positive predictive value and negative predictive value when applied to a diagnostic test.",
+    "Include": true
+  },
+  {
+    "Id": 335,
+    "question": "426. (May-2008 Q14) Describe the advantages and disadvantages of multi-centre trials in anaesthesia research.",
+    "Include": true
+  },
+  {
+    "Id": 336,
+    "question": "474. (Sep-2007 Q5) A 50 year old, 110kg builder is on your list for an arthroscopic acromioplasty which is to be performed in the beach chair position. List the problems associated with this position and describe how you could minimise them.",
+    "Include": true
+  },
+  {
+    "Id": 337,
+    "question": "405. (May-2006 Q14) Discuss the role of desflurane in current anaesthesia practice.",
+    "Include": true
+  },
+  {
+    "Id": 338,
+    "question": "105. (Apr99) Describe the use of a nerve stimulator to monitor neuromuscular blockade during general anaesthesia for intracranial surgery.",
+    "Include": true
+  },
+  {
+    "Id": 339,
+    "question": "117. Finals Oct-2009 Q6 Identify the structures labeled A to H on this normal chest X-ray. (40%)\nDescribe the arterial blood supply and venous drainage of the myocardium. (60%)",
+    "Include": true
+  },
+  {
+    "Id": 340,
+    "question": "268. Finals May-2011 Q10 (a) What factors contribute to acute kidney injury in the perioperative period? (70%) (b) Outline the efficacy of perioperative strategies to reduce acute kidney injury. (30%)",
+    "Include": true
+  },
+  {
+    "Id": 341,
+    "question": "8. (Oct-2012 Q11) You have been asked to provide anaesthesia for a lower uterine segment caesarean section in a woman at 38/40. She has a pacemaker-AICD implanted for a known cardiomyopathy. Her current echo demonstrates an EF of 35% with mild to moderate left ventricular global hypokinesis. Clinically, the patient feels very well. 1. What additional preparations with respect to her cardiovascular system would you make to ensure the safe management of this patient during her Caesarean section? 2. Outline the relative benefits and risks of a regional technique compared with general anaesthesia in this patient.",
+    "Include": true
+  },
+  {
+    "Id": 342,
+    "question": "149. (Aug-2000 Q15) Discuss premedication in this patient.",
+    "Include": true
+  },
+  {
+    "Id": 343,
+    "question": "199. (Aug-2000 Q3) Outline your management of an oxygen saturation of 82% during one lung ventilation.",
+    "Include": true
+  },
+  {
+    "Id": 344,
+    "question": "164. (Sep-2002 Q13) Discuss the issues specific to GA for myringoplasty",
+    "Include": true
+  },
+  {
+    "Id": 345,
+    "question": "226. (Sep-2001 Q9) Describe the symptoms, natural history and causes of \"transient neurological symptoms\" following spinal anaesthesia.",
+    "Include": true
+  },
+  {
+    "Id": 346,
+    "question": "258. (May-2003 Q6) Discuss the importance of a routine post-anaesthetic visit by the anaesthetist",
+    "Include": true
+  },
+  {
+    "Id": 347,
+    "question": "267. Finals Oct-2009 Q8 Question 8 Outline the factors that determine oxygen delivery to the tissues. (30%) How might you increase the oxygen delivery to the tissues in an anaesthetised patient. (40%) How does a hyperbaric chamber influence oxygen delivery to the tissues? (30%)",
+    "Include": true
+  },
+  {
+    "Id": 348,
+    "question": "498. (May-2007 Q1) What are the principles of ventilatory management of patients with acute respiratory distress syndrome (ARDS)?",
+    "Include": true
+  },
+  {
+    "Id": 349,
+    "question": "375. (Sep-2002 Q11) Evalutae the options for postoperative analgesia.",
+    "Include": true
+  },
+  {
+    "Id": 350,
+    "question": "381. (Jul97) Describe the clinical features of an overdose of tricyclic antidepressant.",
+    "Include": true
+  },
+  {
+    "Id": 351,
+    "question": "186. (May-2001 Q11) Justify the steps you would take to assess the cervical spine of this patient.",
+    "Include": true
+  },
+  {
+    "Id": 352,
+    "question": "407. (May-2005 Q9) What significant side-effects are associated with the use of anti-emetic agents?",
+    "Include": true
+  },
+  {
+    "Id": 353,
+    "question": "79. Finals May-2013 Q2 Outline the features of the anaesthetic machine that ensure safe gas delivery to the patient.",
+    "Include": true
+  },
+  {
+    "Id": 354,
+    "question": "486. (Sep-2002 Q4) (Jul98) A healthy 34 yo man requires colonoscopy under intravenous sedation because of a strong family history of bowel cancer. Describe the composition and effects of bowel preparation solutions commonly used before colonoscopy.",
+    "Include": true
+  },
+  {
+    "Id": 355,
+    "question": "269. Finals May-2011 Q6 A 60-year-old man is booked for plating of a fractured ankle. He arrests on induction. His ECG shows ventricular fibrillation. Outline the immediate management of his cardiac arrest with particular reference to current resuscitation guidelines.",
+    "Include": true
+  },
+  {
+    "Id": 356,
+    "question": "348. (Sep-2004 Q11) What is the role for radionucleotide imaging in the assessment of ischaemic heart disease prior to general anaesthesia for non-cardiac surgery?",
+    "Include": true
+  },
+  {
+    "Id": 357,
+    "question": "114. (Aug96) Explain why end-tidal CO2 tension may differ from arterial blood carbon dioxide tension.",
+    "Include": true
+  },
+  {
+    "Id": 358,
+    "question": "291. (Sep-2005 Q12) Describe the symptoms and signs of commonly seen perioperative nerve injuries in the upper limb. List the causes and possible strategies for prevention. Do not include injuries due to neural blockade or direct surgical trauma.",
+    "Include": true
+  },
+  {
+    "Id": 359,
+    "question": "82. (May-2010 Q1) List the complications associated with the use of limb tourniquets during surgery. (60%) How can these complications be minimised? (40%)",
+    "Include": true
+  },
+  {
+    "Id": 360,
+    "question": "9. (Apr-2009 Q8) Outline the features and clinical management of amniotic fluid embolism.",
+    "Include": true
+  },
+  {
+    "Id": 361,
+    "question": "83. (Apr-2009 Q1) What do the terms decontamination, disinfection and sterilisation mean? (30%) What measures should be in place to minimise the risk of transmission of infection to the respiratory tract of patients via anesthetic equipment (70%)",
+    "Include": true
+  },
+  {
+    "Id": 362,
+    "question": "248. Finals Oct-2010 Q10 An adult patient who was intubated for tonsillectomy is noted to have an upper central incisor tooth missing in the Recovery Room after extubation. (a) List the predisposing factors for perioperative dental damage. (50%) (b) What is your management of this situation? (50%)",
+    "Include": true
+  },
+  {
+    "Id": 363,
+    "question": "122. (Sep-2007 Q10) Describe the blood supply to the spinal cord. Explain the determinants of spinal cord perfusion.",
+    "Include": true
+  },
+  {
+    "Id": 364,
+    "question": "185. (May-2001 Q10) A 17 yo trail bike rider was struck on the neck by a low branch and thrown from his bike. He presents to your casualty with a hoarse voice, stridor and subcutaneous emphysema of the neck. Discuss your plan to secure this patient's airway.",
+    "Include": true
+  },
+  {
+    "Id": 365,
+    "question": "143. (May-2004 Q4) An 85 year old female presents with a 3 day history of bowel obstruction. The duty surgeon wants to perform a laparotomy as soon as possible. Discuss the main factors determining the optimal time for anaesthesia and surgery.",
+    "Include": true
+  },
+  {
+    "Id": 366,
+    "question": "302. (Aug96) Permanent loss of vision may occur following surgery unrelated to the eye. How may the likelihood of loss of vision following general anaesthesia for laminectomy be minimized?",
+    "Include": true
+  },
+  {
+    "Id": 367,
+    "question": "156. Finals May-2013 Q4 a. Describe the sensory innervation of the respiratory passage from the nostrils to, and including, the vocal cords (50%).\nb. List the indications and contraindications for nasal intubation (50%).",
+    "Include": true
+  },
+  {
+    "Id": 368,
+    "question": "279. (Oct-2009 Q3) a. 49-year-old woman has just arrived in the Recovery Room following a total abdominal hysterectomy under general anaesthesia. She is agitated and complaining of difficulty breathing. 1. List your differential diagnoses. (40%) 2. How would you determine if this was caused by residual neuromuscular blockade? (40%) 3. What is the role of sugammadex in the treatment of residual neuromuscular blockade? (20%)",
+    "Include": true
+  },
+  {
+    "Id": 369,
+    "question": "299. (May-2003 Q13) On removal of the drapes after a two hour mastectomy on a 20 yo patient, the endotracheal tube is found to be disconnected from the breathing circuit. How would you estimate the probably time interval from disconnection to detection?",
+    "Include": true
+  },
+  {
+    "Id": 370,
+    "question": "2. Finals Oct-2010 Q8 How and why is cardiopulmonary resuscitation modified for the pregnant patient at term compared with the non-pregnant patient?",
+    "Include": true
+  },
+  {
+    "Id": 371,
+    "question": "270. Finals May-2011 Q1 (a) What is the role of dexamethasone in the management of postoperative nausea and vomiting? (70%) (b) What are the potential problems associated with its use? (30%)",
+    "Include": true
+  },
+  {
+    "Id": 372,
+    "question": "103. (Aug99) Draw a circle breathing system and give reasons for the location in the circle of the one way valves and the Adjustable Pressure Limiting valve.",
+    "Include": true
+  },
+  {
+    "Id": 373,
+    "question": "415. (Apr98) Use of at least 30% O2 in the inspired gas has been traditional practice in anaesthesia for healthy adults. Is this practice valid?",
+    "Include": true
+  },
+  {
+    "Id": 374,
+    "question": "340. (Oct-2008 Q12) List the indications and contra-indications for the use of an intra-aortic balloon pump. Describe how its performance is optimised.",
+    "Include": true
+  },
+  {
+    "Id": 375,
+    "question": "366. (Jul98) A 35 yo man had a heart transplant 4 years ago. He is now troubled by pain from avascular necrosis of the head of the femur, and requires surgery. He is on cyclosporin, azathioprine and prednisolone. What are the implications of his immunosuppressive treatment for perioperative anaesthesia care?",
+    "Include": true
+  },
+  {
+    "Id": 376,
+    "question": "7. Finals Oct-2011 Q4 While performing an epidural for labour analgesia in an otherwise healthy primigravida during the first stage of labour you inadvertently cause a dural puncture with the Tuohy needle.",
+    "Include": true
+  },
+  {
+    "Id": 377,
+    "question": "142. (May-2005 Q2) Discuss ways in which the risk of deep venous thrombosis can be minimised in adult patients having intra-abdominal surgery.",
+    "Include": true
+  },
+  {
+    "Id": 378,
+    "question": "68. (Aug-2000 Q12) Half way during the first-level fusion, the electronic anaesthetic machine diagnoses that it has an internal fault and without warning shuts all functions off including gas delivery, ventilation and monitoring. How will you manage this situation?",
+    "Include": true
+  },
+  {
+    "Id": 379,
+    "question": "305. (Aug96) Compare the pharmacology of diazepam and thiopentone, with respect to the management of the patient's convulsions.",
+    "Include": true
+  },
+  {
+    "Id": 380,
+    "question": "219. (Sep-2003 Q8) A 75 you man having a TURP under spinal anaesthesia which has been uneventful, becomes restless 70 minutes into the procedure. Explain your management.",
+    "Include": true
+  },
+  {
+    "Id": 381,
+    "question": "74. Finals Oct-2009 Q10 Describe the differences between biphasic and monophasic manual external cardiac defibrillators. (50%) What is the “synchronize” button for? When would you use it? (20%) List the potential hazards of defibrillation. (30%)",
+    "Include": true
+  },
+  {
+    "Id": 382,
+    "question": "318. (Apr98) A 50 yo man with gastro-oesophageal reflux and occasional nocturnal pharyngeal reflux is to have knee arthroscopy under general anaesthesia. What are the methods which could be used to minimise the risk of aspiration of gastric contents?",
+    "Include": true
+  },
+  {
+    "Id": 383,
+    "question": "370. (Sep-2005 Q7) How would you diagnose a clinically significant latex allergy occurring intra-operatively?",
+    "Include": true
+  },
+  {
+    "Id": 384,
+    "question": "393. (Sep-2007 Q14) A clinical trail is planned to evaluate a new analgesic. Discuss the ethical considerations in having a placebo group in the trial.",
+    "Include": true
+  },
+  {
+    "Id": 385,
+    "question": "294. (Sep-2003 Q11) A 68 y.o. man with pancreatic carcinoma is undergoing sedation for ERCP. His is in a semi-prone position. Soon after commencing ERCP you notice the oximeter reading is 73%. Describe your management.",
+    "Include": true
+  },
+  {
+    "Id": 386,
+    "question": "386. Finals Oct-2012 Q1 You are asked to anaesthetise an 80 year old lady with dementia and a fractured neck of femur. She is on no other medication. 1. What are the issues in assessing pain in this patient (50%). 2. What would you prescribe for postoperative analgesia and why? (50%)",
+    "Include": true
+  },
+  {
+    "Id": 387,
+    "question": "207. (Apr-2009 Q4) Draw a cross section of the arm at the level of the axilla illustrating the anatomy relevant to performing a brachial plexus block for surgery on the forearm (50%). List the advantages and disadvantages of a block at this level compared to a suparclavicular block (50%).",
+    "Include": true
+  },
+  {
+    "Id": 388,
+    "question": "259. (Sep-2002 Q1) A colleague seeks your advice. A patient to whom they gave an anaesthetic 2 days ago for removal of wisdom teeth as a day case, claims that she was awake during the operation. The patient remembers hearing someone refering to her as a \"fat old cow\". Your colleague has been notified that a formal complaint about this matter is to be investigated by the relevant legal authority. Discuss the factors which may have contributed to awareness in this patient.",
+    "Include": true
+  },
+  {
+    "Id": 389,
+    "question": "396. (May-2004 Q6) A 71 year old man presents with acute herpes zoster involving the ophthalmic division of his left trigeminal nerve. He complains of severe unrelenting facial and eye pain which started 3 days ago. Discuss the pharmacological treatment options. Include information about the relevant efficacy of the treatments you prescribe.",
+    "Include": true
+  },
+  {
+    "Id": 390,
+    "question": "377. (May-2002 Q14) Outline the anaesthetic risks specific to patients undergoing electro-convulsive therapy.",
+    "Include": true
+  },
+  {
+    "Id": 391,
+    "question": "339. (Apr-2009 Q9) A 65yo male presents in PAC. He is scheduled for fem-pop bypass surgery for PVD in 4 days time. He has ischaemic rest pain in his leg. Evaluate the usefulness of initiating therapy with beta-blockers to reduce the incidence of perioperative myocardial infarction in this man.",
+    "Include": true
+  },
+  {
+    "Id": 392,
+    "question": "354. (Aug99) What is the role for radionuclide imaging in the assessment of ischaemic heart disease prior to general anaesthesia for non-cardiac surgery?",
+    "Include": true
+  },
+  {
+    "Id": 393,
+    "question": "233. (Apr98) An otherwise well 20 yo requires circumcision. Describe the anatomy of the penis relevant to providing regional anaesthesia for circumcision in an adult.",
+    "Include": true
+  },
+  {
+    "Id": 394,
+    "question": "314. (Sep-2004 Q13) Describe the technique of applying cricoid pressure to prevent regurgitation of gastric contents.",
+    "Include": true
+  },
+  {
+    "Id": 395,
+    "question": "77. Finals Oct-2013 Q7 Discuss the safe use of arterial tourniquets for orthopaedic procedures.",
+    "Include": true
+  },
+  {
+    "Id": 396,
+    "question": "137. (Apr97) Describe the anatomy of the orbit relevant to peribulbar block for cataract extraction",
+    "Include": true
+  },
+  {
+    "Id": 397,
+    "question": "289. (May-2006 Q7) A seventy five year old man having a transurethral resection of the prostate under spinal anaesthesia which has been uneventful, becomes restless 70 minutes into the procedure. He had 2 milligrams of midazolam at the start of the case and no further sedation. Describe your assessment and management of this problem.",
+    "Include": true
+  },
+  {
+    "Id": 398,
+    "question": "282. (Oct-2008 Q3) What would make you suspect venous gas emnbolism during a surgical procedure? Briefly outline the principles of management of venous gas embolism causing haemodynamic compromise.",
+    "Include": true
+  },
+  {
+    "Id": 399,
+    "question": "482. (Jul97) Describe the adverse effects of a core temperature of 34.0 degrees centigrade at emergence from general anaesthesia.",
+    "Include": true
+  },
+  {
+    "Id": 400,
+    "question": "31. (Apr96) You are asked to attend a patient who cannot move her legs twelve hours after a vaginal delivery. The last epidural top-up used 0.25% bupivacaine and occurred shortly before delivery. How would you manage her leg weakness?",
+    "Include": true
+  },
+  {
+    "Id": 401,
+    "question": "465. (Aug96) What are the anaesthetic implications of autonomic dysfunction in a diabetic patient?",
+    "Include": true
+  },
+  {
+    "Id": 402,
+    "question": "135. (Jul98) Describe the anatomy of the trigeminal nerve and its branches relevant to providing anaesthesia of the teeth and gums.",
+    "Include": true
+  },
+  {
+    "Id": 403,
+    "question": "413. (Aug-2000 Q8) Compare the relative merits of gelatin-based intravenous solutions and dextran intravenous solutions.",
+    "Include": true
+  },
+  {
+    "Id": 404,
+    "question": "460. (Sep-2001 Q13) How would you assess a patient's thyroid function preoperatively, at the bedside?",
+    "Include": true
+  },
+  {
+    "Id": 405,
+    "question": "191. Finals Oct-2013 Q8 You are asked to evaluate a 35-year-old patient who has been scheduled for mediastinoscopy to biopsy a symptomatic anterior mediastinal mass. Discuss the features specific to this condition that need to be considered when planning an anaesthetic for this patient. (50%). Describe how you may need to adapt your anaesthetic plan in response to each of these features. (50%)",
+    "Include": true
+  },
+  {
+    "Id": 406,
+    "question": "218. (Sep-2003 Q7) At the end of an open cholecystectomy, intercostal nerve blocks with a total of 20ml bupivacaine 0.5% are placed at two levels while the patient is still under general endotracheal anaesthesia. The patient develops ventricular fibrillation within 3 minutes. Describe your management of this situation.",
+    "Include": true
+  },
+  {
+    "Id": 407,
+    "question": "20. (Sep-2001 Q7) After 10 hours labour, a healthy 28 yo primiparous woman at term requests epidural analgesia. Her cervix is 8cm dilated. Discuss the assertion that \"a combined spinal epidural technique is a better choice of analgesia for this woman\".",
+    "Include": true
+  },
+  {
+    "Id": 408,
+    "question": "200. Finals Oct-2013 Q9 A 25-year-old boilermaker is scheduled for repair of a penetrating eye injury on the emergency list. List the determinants of intraocular pressure in general. (30%) Discuss the perioperative measures available to minimise increases in intraocular pressure in this patient. (70%)",
+    "Include": true
+  },
+  {
+    "Id": 409,
+    "question": "118. Finals Oct-2010 Q2 (a) Describe the arterial blood supply of the spinal cord. (50%)\n(b) Why is spinal cord function at risk during open repair of a thoracic aortic aneurysm and what measures are available to reduce this risk? (50%)",
+    "Include": true
+  },
+  {
+    "Id": 410,
+    "question": "160. (Apr-2009 Q12) Describe your management of a patient who has had a total thyroidectomy who develops respiratory distress in the recovery room.",
+    "Include": true
+  },
+  {
+    "Id": 411,
+    "question": "471. Finals Oct-2010 Q1 (a) What are the clinical consequences of hypothermia to 34⁰C in adults? (50%) (b) How can you manage body temperature in a multi-trauma patient? (50%)",
+    "Include": true
+  },
+  {
+    "Id": 412,
+    "question": "84. (Apr-2009 Q2) What are the essential safety requirements for delivery of gases via anaesthetic machines and their associated breathing circuits in use in Australia and New Zealand? (do not include ventilators or scavenging in your answers).",
+    "Include": true
+  },
+  {
+    "Id": 413,
+    "question": "145. (May-2002 Q5) Outline the implications of this operation being performed as an open rather than a laparoscopic procedure in this patient.",
+    "Include": true
+  },
+  {
+    "Id": 414,
+    "question": "212. (Sep-2006 Q2) Describe your technique for performing a continuous paravertebral block in a 50 year old man with fractured 5th – 10th left ribs. Include possible complications and relevant anatomy.",
+    "Include": true
+  },
+  {
+    "Id": 415,
+    "question": "104. (Aug99) What is micro-shock? Outline methods to prevent it occurring in the operating theatre.",
+    "Include": true
+  },
+  {
+    "Id": 416,
+    "question": "171. (Apr98) An obese 40 yo man with a history of snoring presents for septoplasty and cautery of turbinates. At the pre-anaesthetic consultation, what clinical features on history and examination would suggest to you that he may have sleep apnoea?",
+    "Include": true
+  },
+  {
+    "Id": 417,
+    "question": "472. Finals May-2012 Q2 A 65-year-old man is on your list for an arthroscopic acromioplasty that is to be performed in the beachchair position. List the complications associated with this position (30%) Describe how the risk of these complications can be minimised (70%)",
+    "Include": true
+  },
+  {
+    "Id": 418,
+    "question": "433. Finals May-2010 Q4 a. Describe the pathophysiological changes associated with a haemoglobin of 75 g/L. (50%) b. Outline the patient factors that would indicate the need for a perioperative red blood cell transfusion in a patient with a haemoglobin of 75 g/L. (50%)",
+    "Include": true
+  },
+  {
+    "Id": 419,
+    "question": "360. Finals Oct-2009 Q9 What are the indications for prophylaxis against perioperative bacterial endocarditis? Justify your choice of antibiotics. (50%)",
+    "Include": true
+  },
+  {
+    "Id": 420,
+    "question": "129. (May-2002 Q15) Describe the anatomy of the epidural space.",
+    "Include": true
+  },
+  {
+    "Id": 421,
+    "question": "237. (Jul97) Another anaesthetist administers 4 ml plain bupivacaine 0.5% into the subarachnoid space for his anaesthesia, and you are called to assist with resuscitation of the patient when he becomes asystolic 10 minutes after surgery commences. Discuss the possible causes of the asystole.",
+    "Include": true
+  },
+  {
+    "Id": 422,
+    "question": "346. (Sep-2005 Q10) Critically evaluate the role of cardioversion in the management of intraoperative arrythmias.",
+    "Include": true
+  },
+  {
+    "Id": 423,
+    "question": "168. (Apr99) A 55 yo adult is to have nasal polypectomy under general anaesthesia. The patient has nocturnal oesophageal reflux and extensive fixed uppper dental prostheses. How would you reduce the risk of perioperative dental damage?",
+    "Include": true
+  },
+  {
+    "Id": 424,
+    "question": "404. (May-2006 Q9) Describe the clinical features and management of bupivacaine toxicity.",
+    "Include": true
+  },
+  {
+    "Id": 425,
+    "question": "315. (May-2004 Q2) Discuss the presence of morbid obesity as a predictor of difficult intubation.",
+    "Include": true
+  },
+  {
+    "Id": 426,
+    "question": "429. (Sep-2001 Q14) What are the features of systematic reviews which contribute to their value in the context of evidence based medicine?",
+    "Include": true
+  },
+  {
+    "Id": 427,
+    "question": "300. (May-2003 Q14) Two hours later, the patient has still failed to regain consciousness. Describe how you would explain this to the relatives.",
+    "Include": true
+  },
+  {
+    "Id": 428,
+    "question": "335. Finals Oct-2010 Q11 A 78-year-old female presents for fixation of a displaced femoral fracture. She has longstanding mitral regurgitation and is known to have a mean pulmonary artery pressure of 60mmHg. She reports orthopnoea but is not short of breath at rest. (a) What are the issues of concern in your preoperative assessment? (50%)\n(b) How would you manage pulmonary vascular resistance perioperatively? (50%)",
+    "Include": true
+  },
+  {
+    "Id": 429,
+    "question": "399. Finals Oct-2009 Q7 A 27 year old male presents with a glioblastoma for a craniotomy. As part of your anaesthetic technique, you decide to use a remifentanil infusion. Discuss the characteristics of remifentanil with respect to its use as an infusion. (50%) What are the advantages and disadvantages of using effect site calculations to guide remifentanil infusions? (50%)",
+    "Include": true
+  },
+  {
+    "Id": 430,
+    "question": "260. (Sep-2002 Q2) Give your recommendations for management of this patient's complaint.",
+    "Include": true
+  },
+  {
+    "Id": 431,
+    "question": "483. (Sep-2007 Q11) An 18 year old otherwise healthy female is to have 2 impacted wisdom teeth surgically removed as a day stay patient. Describe and justify features of your anaesthetic technique that may help prevent the common postoperative problems you would anticipate in this patient.",
+    "Include": true
+  },
+  {
+    "Id": 432,
+    "question": "412. (Sep-2001 Q6) Outline the pharmacology of naltrexone relevant to providing anaesthesia and postoperative care for a patient on naltrexone undergoing major abdominal surgery?",
+    "Include": true
+  },
+  {
+    "Id": 433,
+    "question": "266. (Apr-2000 Q9) What are the signs of alcohol abuse in a colleague?",
+    "Include": true
+  },
+  {
+    "Id": 434,
+    "question": "444. Finals May-2013 Q15 A female patient scheduled requiring a total knee replacement is seen in clinic. A date has not yet been scheduled for surgery.\nOn investigation she has a haemoglobin of 105 g/L 1. What are the most likely causes of this result, and how would confirm this? (50%) 2. What preoperative treatment would you undertake and why? What advice would you give for scheduling time of surgery? (50%)",
+    "Include": true
+  },
+  {
+    "Id": 435,
+    "question": "130. (Sep-2001 Q15) Describe the anatomy of the brachial plexus relevant to risks associated with the interscalene block.",
+    "Include": true
+  },
+  {
+    "Id": 436,
+    "question": "285. Ten minutes into the procedure his BP is 70/30 and his ECG lead 2 monitor looks like this. (Shows CHB). What does ECG 1 show? What Does ECG2 show? Outline your management of the situation associated with ECG 2.",
+    "Include": true
+  },
+  {
+    "Id": 437,
+    "question": "6. Finals Oct-2013 Q13 You are asked to assess a 35-year-old woman on labour ward. She has uncontrolled hypertension at 34 weeks’ gestation. Her blood pressure is 180/110 mmHg and urinalysis shows 3+ of protein. Her obstetrician wants to deliver her by caesarean section as soon as feasible. Outline your management to optimise her status prior to transfer to theatre.",
+    "Include": true
+  },
+  {
+    "Id": 438,
+    "question": "304. (Aug96) While you are assessing her, she begins to convulse. Describe your management.",
+    "Include": true
+  },
+  {
+    "Id": 439,
+    "question": "125. (May-2005 Q3) Outline the anatomy of the right internal jugular vein as it is relevant to your preferred method of percutaneous cannulation.",
+    "Include": true
+  },
+  {
+    "Id": 440,
+    "question": "321. (Apr98) Despite your best management the patient does regurgitate and aspirate at induction. How would you manage this?",
+    "Include": true
+  },
+  {
+    "Id": 441,
+    "question": "124. (Sep-2005 Q4) Describe the anatomy of the trigeminal nerve relevant to local anaesthesia for dental extraction.",
+    "Include": true
+  },
+  {
+    "Id": 442,
+    "question": "167. (Aug99) Discuss methods of postoperative analgesia for this surgery.",
+    "Include": true
+  },
+  {
+    "Id": 443,
+    "question": "373. (Sep-2005 Q15) List the physiological effects of ECT and how they may be modified?",
+    "Include": true
+  },
+  {
+    "Id": 444,
+    "question": "(1) Describe how basic life support should be provided in the emergency department. She has no pulse and her ECG shows ventricular fibrillation. (2) Outline the advanced life support algorithm you would now follow.",
+    "Include": true
+  },
+  {
+    "Id": 445,
+    "question": "210. (Sep-2007 Q13) Describe a technique of neural blockade in the popliteal fossa for surgery on the foot and ankle including a description of the relevant anatomy.",
+    "Include": true
+  },
+  {
+    "Id": 446,
+    "question": "33. (Apr96) Discuss the methods which may identify an inadvertant epidural venous cannulation during labour.",
+    "Include": true
+  },
+  {
+    "Id": 447,
+    "question": "264. (Apr-2000 Q7) You are asked to provide anaesthesia for an appendicectomy late at night. When you arrive, you smell alcohol on the surgeons breath. How would you respond to this situation?",
+    "Include": true
+  },
+  {
+    "Id": 448,
+    "question": "76. Finals May-2012 Q15 With regard to oxygen therapy for patients in a general postoperative ward Describe the options available (30%) What are the justifications for your choice for a particular patient? (70%)",
+    "Include": true
+  },
+  {
+    "Id": 449,
+    "question": "332. Finals May-2011 Q14 (a) Describe the abnormality on this electrocardiogram. (30%)\n(b) What are the implications of this abnormality for anaesthesia? (70%)",
+    "Include": true
+  },
+  {
+    "Id": 450,
+    "question": "172. (Apr98) Discuss your plan for intra-operative airway management for this patient.",
+    "Include": true
+  },
+  {
+    "Id": 451,
+    "question": "443. Finals May-2012 Q3 A 60-year-old man is admitted to the high dependency unit following laparotomy for relief of a large bowel obstruction. He has a urinary catheter in situ. Three hours later he remains oliguric. Define oliguria (10%) What are the potential causes of oliguria in this patient? (40%) How would you differentiate between these causes? (50%)",
+    "Include": true
+  },
+  {
+    "Id": 452,
+    "question": "463. (Apr97) Discuss your options for providing muscle relaxation during surgery.",
+    "Include": true
+  },
+  {
+    "Id": 453,
+    "question": "342. (May-2007 Q8) Describe how the ECG should be used to monitor for intraoperative myocardial ischemia in a patient with ischemic heart disease.",
+    "Include": true
+  },
+  {
+    "Id": 454,
+    "question": "42. (May-2005 Q6) Compare the use of a pulmonary artery catheter and transoesophageal echo in evaluating cardiac function intraoperatively.",
+    "Include": true
+  },
+  {
+    "Id": 455,
+    "question": "155. (Aug96) Compare the pharmacology of diazepam and thiopentone, with respect to the management of the patient's convulsions",
+    "Include": true
+  },
+  {
+    "Id": 456,
+    "question": "211. (May-2007 Q2) Describe the relevant anatomy and technique for field block for inguinal hernia repair.",
+    "Include": true
+  },
+  {
+    "Id": 457,
+    "question": "58. Finals Oct-2009 Q15 Describe the principles of cerebral protection in a patient with an isolated closed head injury.",
+    "Include": true
+  },
+  {
+    "Id": 458,
+    "question": "240. (Apr97) How would you respond to a fall in blood pressure to 80/50, occurring after 30 minutes of surgery?",
+    "Include": true
+  },
+  {
+    "Id": 459,
+    "question": "132. (May-2001 Q15) (Sep-2003 Q6) Describe the anatomy of the penis relevant to providing regional anaesthesia for circumcision in an adult.",
+    "Include": true
+  },
+  {
+    "Id": 460,
+    "question": "195. (May-2007 Q7) A 65 year old man with a 40 pack a year history of smoking is scheduled for right pneumonectomy for carcinoma. Describe your preoperative evaluation of his respiratory system to decide his capacity to undergo this operation.",
+    "Include": true
+  },
+  {
+    "Id": 461,
+    "question": "392. (May-2008 Q13) Evaluate the role of gapapentin in acute and chronic post surgical pain management.",
+    "Include": true
+  },
+  {
+    "Id": 462,
+    "question": "365. (Sep-2003 Q10) How may the spread of blood borne viral infectious agents from patient to health care worker be minimised in anaesthesia?",
+    "Include": true
+  },
+  {
+    "Id": 463,
+    "question": "119. Finals May-2012 Q12 Describe the anatomy of the epidural space (50%) What are the clinical implications of the anatomical differences between thoracic and lumbar epidural spaces in the placement and management of epidural analgesia? (50%)",
+    "Include": true
+  },
+  {
+    "Id": 464,
+    "question": "350. (Sep-2002 Q14) Discuss the methods available for investigating a clinical suspicion of acute postoperative MI.",
+    "Include": true
+  },
+  {
+    "Id": 465,
+    "question": "397. (Apr99) What is the role of non-steroidal anti-inflammatory drugs for post-operative analgesia in adult day surgery patients?",
+    "Include": true
+  },
+  {
+    "Id": 466,
+    "question": "144. (May-2002 Q4) A morbidly obese patient (160kg, 165cm) with sleep apnoea requiring the use of CPAP mask develops actue cholecystitis. He is febrile and sweaty, with warm peripheries. Blood pressure is 110/70. Heart rate is 110/min. He is scheduled for urgent cholecystectomy. His saturation on arrival in the operating theatre is 93% on O2 (nasal prongs 2l/min). Discuss the advantages and disadvantages of an awake intubation in this patient.",
+    "Include": true
+  },
+  {
+    "Id": 467,
+    "question": "336. Finals Oct-2010 Q7 (a) Describe the common classification code for permanent pacemakers. (30%)\n(b) Outline the principles involved in the perioperative management of patients with a permanent pacemaker. (70%)",
+    "Include": true
+  },
+  {
+    "Id": 468,
+    "question": "229. (Aug-2000 Q6) When you contact the patient that day, he tells you that he has also been suffering from moderately severe headache since arriving home. What information would you seek and what advice would you give him?",
+    "Include": true
+  },
+  {
+    "Id": 469,
+    "question": "449. (Oct-2008 Q15) What symptoms and signs suggest the presence of OSA in a patient presenting for pre-operative assessment? How does the presence of OSA alter your anaesthetic plan?",
+    "Include": true
+  },
+  {
+    "Id": 470,
+    "question": "363. (May-2004 Q8) Discuss the indications for peri-operative antibiotic prophylaxis. Include consideration of the appropriate class of antibiotic for each indication.",
+    "Include": true
+  },
+  {
+    "Id": 471,
+    "question": "146. (May-2002 Q6) Justify your plan for postoperative respiratory care of this patient following an open procedure.",
+    "Include": true
+  },
+  {
+    "Id": 472,
+    "question": "61. (May-2008 Q12) Outline the issues involved in the pre-operative assessment of the patient presenting for transphenoidal surgery for acromegaly.",
+    "Include": true
+  },
+  {
+    "Id": 473,
+    "question": "307. Finals May-2011 Q8 (a) Describe the anatomy, including surface landmarks, relevant to performing cricothyroidotomy. (50%) FIX INDENT (b) What are the complications of this procedure? (50%) FIX INDENT",
+    "Include": true
+  },
+  {
+    "Id": 474,
+    "question": "95. (Sep-2004 Q15) Describe the function of the anaesthetic circuit shown in the diagram (Mapleson F - Jackson-Reece modification of the Ayers t piece)",
+    "Include": true
+  },
+  {
+    "Id": 475,
+    "question": "316. (Sep-2002 Q15) Discuss the role of the LMA in the management of a difficult intubation",
+    "Include": true
+  },
+  {
+    "Id": 476,
+    "question": "11. (May-2008 Q7) 34yo woman presents at 36 weeks gestation with an anterior placenta previa and a caesarean section is scheduled. She has no intercurrent health problems. She has a history of two caesarean sections under regional anaesthesia. Describe and justify the changes this history would make to your pre-operative and intra-operative plan for CS.",
+    "Include": true
+  },
+  {
+    "Id": 477,
+    "question": "456. (Sep-2003 Q3) A 50 yo man taking a corticosteroid and pyridostigmine for myasthenia gravis is to have an elective right hemicolectomy under general anaesthesia. How would you manage his myasthenia pre and post-operatively?",
+    "Include": true
+  },
+  {
+    "Id": 478,
+    "question": "54. Finals May-2010 Q7 A 43 year old female with a Grade 1 subarachnoid haemorrhage is scheduled for coiling of her middle cerebral artery in the radiology suite. Discuss the important issues to consider when providing anaesthesia for this patient.",
+    "Include": true
+  },
+  {
+    "Id": 479,
+    "question": "323. (Apr96 Q1) Explain your bedside assessment of the airway in an adult who has a history of a difficult tracheal intubation.",
+    "Include": true
+  },
+  {
+    "Id": 480,
+    "question": "147. (Aug-2000 Q13) A patient is referred to see you six weeks before her scheduled cholecystectomy. The significant features of her history and exam are: Age 42, weight 140kg, height 171cm. Medication: oral contraceptive pill. Allergies: peanuts (severe asthma); some cosmetics; penicillin (itchy rash). Smokes 60 cigs per day for 20 years. Discuss the anaesthetic related risks associated with laparoscopic as compared to open surgery in this patient.",
+    "Include": true
+  },
+  {
+    "Id": 481,
+    "question": "12. (Sep-2007 Q8) You are asked to provide epidural pain relief for a woman in labour. She is primigravida, and is 3cm dilated. Describe and justify both your choice of drugs for and the mode of administration of epidural analgesia in this situation.",
+    "Include": true
+  },
+  {
+    "Id": 482,
+    "question": "194. (Sep-2007 Q2) A 60 year old man develops a large haemo/pneumothorax following attempted insertion of a haemodialysis catheter via the left subclavian route. Describe your technique of chest tube insertion to drain this and the features of the pleural drainage system you would connect to it.",
+    "Include": true
+  },
+  {
+    "Id": 483,
+    "question": "170. (Apr99) Describe the management of systemic toxicity resulting from the use of vasoconstrictors in nasal surgery.",
+    "Include": true
+  },
+  {
+    "Id": 484,
+    "question": "286. (Sep-2006 Q13) List the risks associated with the placement of a central venous catheter? Discuss the ways in which these risks may be modified.",
+    "Include": true
+  },
+  {
+    "Id": 485,
+    "question": "317. (May-2001 Q14) What are the arguments for and against leaving a laryngeal mask airway in place for unsupervised removal by recovery room nurses?",
+    "Include": true
+  },
+  {
+    "Id": 486,
+    "question": "484. (May-2004 Q3) Describe and justify your usual anaesthetic technique for colonoscopy in an otherwise uncompromised patient",
+    "Include": true
+  },
+  {
+    "Id": 487,
+    "question": "326. Finals May-2014 Q6 A patient is complaining of central chest pain in the post anaesthesia care unit (PACU) following femoro-popliteal artery bypass surgery. Outline the diagnostic criteria for acute myocardial ischaemia on an ECG? (30%) Describe your management of acute myocardial ischemia in PACU in this patient. (70%)",
+    "Include": true
+  },
+  {
+    "Id": 488,
+    "question": "161. (May-2008 Q9) A 25 yo man is to have laser surgery for a vocal cord papilloma. What are the hazards associated with the use of laser in this situation and how can they be minimsed?",
+    "Include": true
+  },
+  {
+    "Id": 489,
+    "question": "4. Finals May-2013 Q7 A 25 year old woman at 28 weeks gestation, with a body mass index (BMI) of 45 attends the high risk obstetric clinic. Outline the pathophysiology of morbid obesity affecting pregnancy and describe the implications for obstetric anaesthetic care.",
+    "Include": true
+  },
+  {
+    "Id": 490,
+    "question": "19. (May-2003 Q9) An epidural is placed. Two days later she complains of back pain, urinary incontinence and a weak sensation in her right leg. How would you manage this problem?",
+    "Include": true
+  },
+  {
+    "Id": 491,
+    "question": "67. (Aug-2000 Q11) His peroperative blood pressure is 150/90 and the surgeon requests induced hypotension. Justify the level you would lower the blood pressure to and the method chosen.",
+    "Include": true
+  },
+  {
+    "Id": 492,
+    "question": "265. (Apr-2000 Q8) What are your obligations if you suspect a colleague may be chronically impaired?",
+    "Include": true
+  },
+  {
+    "Id": 493,
+    "question": "461. (Jul97) Describe the management of a thyroid crisis occurring 12 hrs after thyroidectomy.",
+    "Include": true
+  },
+  {
+    "Id": 494,
+    "question": "244. Finals Oct-2011 Q11 a. Define quality assurance. (30%)\nb. How would you design and implement a Quality Improvement programme to assess patient satisfaction with the preoperative visit? (70%)",
+    "Include": true
+  },
+  {
+    "Id": 495,
+    "question": "385. Finals Oct-2010 Q9 (a) List the predisposing factors for pain persisting for more than three months postoperatively. (50%) (b) Outline the interventions that have been demonstrated to be efficacious in the prevention of persistent postoperative pain. (50%)",
+    "Include": true
+  },
+  {
+    "Id": 496,
+    "question": "495. (May-2008 Q6) The electrolyte results below were taken from a 38 year old woman found obtunded 30 hours after abdominal hysterectomy. She had no intercurrent llnesses prior tosurgery. Explain how these electrolyte abnormalities are most likely to have arisen and describe how you would correct them.\nResult mmol/L  Normal range mmol/L\nSodium 110  135-145\nPotassium 3  3.0-5.0\nChloride 80  95-105\nBicarbonate 25  20-32\nGlucose 5.0  3.0-5.5\nUrea 3.0  3.0-8.0\nCreatinine 0.06  0.06-0.12\nMeasured Osmolality 225 mosmol/kg  280-295mosmol/kg\n",
+    "Include": true
+  }
+]
