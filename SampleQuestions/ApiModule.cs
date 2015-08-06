@@ -13,8 +13,8 @@ namespace SampleQuestions
         {
             var repo = new QuestionsRepository();
 
-            Get["/questions"] = _ => repo.GetRandomQuestions(10).Select(q => new DecoratedShortAnswerQuestion(q));
-            Get["/questions/{id}"] = _ =>
+            Get["/api/questions"] = _ => repo.GetRandomQuestions(10).Select(q => new DecoratedShortAnswerQuestion(q));
+            Get["/api/questions/{id}"] = _ =>
             {
                 var id = _.id;
                 var question = repo.GetQuestion(id);

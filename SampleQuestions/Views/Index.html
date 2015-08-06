@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Random Questions</title>
+</head>
+<body>
+    <h1>10 Random Questions</h1>
+<ul id="questions"></ul>
+
+<script type="text/javascript" src="~/content/jquery-2.1.4.min.js"></script>
+<script type="text/javascript">
+    $(function () {
+        $.getJSON('/api/questions', function(data) {
+            var $qul = $('#questions');
+            for (var i = 0; i < data.length; i++) {
+                $qul.append($('<li>' + data[i].question + '</li>'));
+            }
+        });
+    });
+</script>
+</body>
+</html>
